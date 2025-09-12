@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>image_102.jpg</ns0:fileName>
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT100" LABEL="header" DESCRIPTION="block type header" /><ns0:OtherTag ID="BT101" LABEL="Pricing" DESCRIPTION="block type Pricing" /><ns0:OtherTag ID="BT102" LABEL="Metadata" DESCRIPTION="block type Metadata" /><ns0:OtherTag ID="BT103" LABEL="Date(s)" DESCRIPTION="block type Date(s)" /><ns0:OtherTag ID="BT104" LABEL="Column" DESCRIPTION="block type Column" /><ns0:OtherTag ID="BT105" LABEL="footer" DESCRIPTION="block type footer" /><ns0:OtherTag ID="BT106" LABEL="Motto" DESCRIPTION="block type Motto" />
+  </ns0:Tags>
+  <ns0:Layout>
+    <ns0:Page WIDTH="1400" HEIGHT="1945" PHYSICAL_IMG_NR="101" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1400" HEIGHT="1945">
+        <ns0:TextBlock HPOS="117" VPOS="160" WIDTH="971" HEIGHT="42" ID="tr_1701770671" TAGREFS="BT100">
+          <ns0:Shape><ns0:Polygon POINTS="117 160 1088 160 1088 202 117 202" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="107" VPOS="197" WIDTH="338" HEIGHT="1679" ID="tr_1701770670" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="107 197 445 197 445 1876 107 1876" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="443" VPOS="209" WIDTH="332" HEIGHT="1621" ID="tr_1701770669" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="443 209 775 209 775 1830 443 1830" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="777" VPOS="187" WIDTH="342" HEIGHT="1681" ID="tr_1701770668" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="777 187 1119 187 1119 1868 777 1868" /></ns0:Shape>
+        </ns0:TextBlock>
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

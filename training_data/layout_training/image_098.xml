@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>image_098.jpg</ns0:fileName>
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT100" LABEL="header" DESCRIPTION="block type header" /><ns0:OtherTag ID="BT101" LABEL="Pricing" DESCRIPTION="block type Pricing" /><ns0:OtherTag ID="BT102" LABEL="Metadata" DESCRIPTION="block type Metadata" /><ns0:OtherTag ID="BT103" LABEL="Date(s)" DESCRIPTION="block type Date(s)" /><ns0:OtherTag ID="BT104" LABEL="Column" DESCRIPTION="block type Column" /><ns0:OtherTag ID="BT105" LABEL="footer" DESCRIPTION="block type footer" /><ns0:OtherTag ID="BT106" LABEL="Motto" DESCRIPTION="block type Motto" />
+  </ns0:Tags>
+  <ns0:Layout>
+    <ns0:Page WIDTH="1400" HEIGHT="1945" PHYSICAL_IMG_NR="97" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1400" HEIGHT="1945">
+        <ns0:TextBlock HPOS="105" VPOS="153" WIDTH="953" HEIGHT="42" ID="tr_1701770694" TAGREFS="BT100">
+          <ns0:Shape><ns0:Polygon POINTS="105 153 1058 153 1058 195 105 195" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="101" VPOS="209" WIDTH="317" HEIGHT="1680" ID="tr_1701770693" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="101 209 418 209 418 1889 101 1889" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="421" VPOS="203" WIDTH="323" HEIGHT="1646" ID="tr_1701770692" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="421 203 744 203 744 1849 421 1849" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="754" VPOS="204" WIDTH="332" HEIGHT="1663" ID="tr_1701770691" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="754 204 1086 204 1086 1867 754 1867" /></ns0:Shape>
+        </ns0:TextBlock>
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

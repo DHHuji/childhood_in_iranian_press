@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>image_199.jpg</ns0:fileName>
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT100" LABEL="header" DESCRIPTION="block type header" /><ns0:OtherTag ID="BT101" LABEL="Pricing" DESCRIPTION="block type Pricing" /><ns0:OtherTag ID="BT102" LABEL="Metadata" DESCRIPTION="block type Metadata" /><ns0:OtherTag ID="BT103" LABEL="Date(s)" DESCRIPTION="block type Date(s)" /><ns0:OtherTag ID="BT104" LABEL="Column" DESCRIPTION="block type Column" /><ns0:OtherTag ID="BT105" LABEL="footer" DESCRIPTION="block type footer" /><ns0:OtherTag ID="BT106" LABEL="Motto" DESCRIPTION="block type Motto" />
+  </ns0:Tags>
+  <ns0:Layout>
+    <ns0:Page WIDTH="1400" HEIGHT="2039" PHYSICAL_IMG_NR="198" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1400" HEIGHT="2039">
+        <ns0:TextBlock HPOS="177" VPOS="213" WIDTH="942" HEIGHT="46" ID="tr_1701772914" TAGREFS="BT100">
+          <ns0:Shape><ns0:Polygon POINTS="177 213 1119 213 1119 259 177 259" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="163" VPOS="273" WIDTH="465" HEIGHT="1543" ID="tr_1701772912" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="167 273 628 273 624 1816 163 1816" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="655" VPOS="280" WIDTH="469" HEIGHT="1536" ID="tr_1701772913" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="661 280 1124 280 1118 1816 655 1816" /></ns0:Shape>
+        </ns0:TextBlock>
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

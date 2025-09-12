@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>image_004.jpg</ns0:fileName>
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT100" LABEL="header" DESCRIPTION="block type header" /><ns0:OtherTag ID="BT101" LABEL="Pricing" DESCRIPTION="block type Pricing" /><ns0:OtherTag ID="BT102" LABEL="Metadata" DESCRIPTION="block type Metadata" /><ns0:OtherTag ID="BT103" LABEL="Date(s)" DESCRIPTION="block type Date(s)" /><ns0:OtherTag ID="BT104" LABEL="Column" DESCRIPTION="block type Column" /><ns0:OtherTag ID="BT105" LABEL="footer" DESCRIPTION="block type footer" /><ns0:OtherTag ID="BT106" LABEL="Motto" DESCRIPTION="block type Motto" />
+  </ns0:Tags>
+  <ns0:Layout>
+    <ns0:Page WIDTH="1400" HEIGHT="1982" PHYSICAL_IMG_NR="3" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1400" HEIGHT="1982">
+        <ns0:TextBlock HPOS="776" VPOS="210" WIDTH="541" HEIGHT="1589" ID="tr_1701875467" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="776 219 1266 210 1317 1787 816 1799" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="375" VPOS="155" WIDTH="812" HEIGHT="53" ID="tr_1702556114" TAGREFS="BT100">
+          <ns0:Shape><ns0:Polygon POINTS="375 155 1187 155 1187 208 375 208" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="628" VPOS="1808" WIDTH="317" HEIGHT="35" ID="tr_1702556115" TAGREFS="BT105">
+          <ns0:Shape><ns0:Polygon POINTS="628 1808 945 1808 945 1843 628 1843" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="287" VPOS="229" WIDTH="503" HEIGHT="1582" ID="eSc_textblock_f70cb7d9" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="287 238 750 229 790 1796 292 1811" /></ns0:Shape>
+        </ns0:TextBlock>
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

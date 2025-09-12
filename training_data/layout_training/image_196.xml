@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>image_196.jpg</ns0:fileName>
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT100" LABEL="header" DESCRIPTION="block type header" /><ns0:OtherTag ID="BT101" LABEL="Pricing" DESCRIPTION="block type Pricing" /><ns0:OtherTag ID="BT102" LABEL="Metadata" DESCRIPTION="block type Metadata" /><ns0:OtherTag ID="BT103" LABEL="Date(s)" DESCRIPTION="block type Date(s)" /><ns0:OtherTag ID="BT104" LABEL="Column" DESCRIPTION="block type Column" /><ns0:OtherTag ID="BT105" LABEL="footer" DESCRIPTION="block type footer" /><ns0:OtherTag ID="BT106" LABEL="Motto" DESCRIPTION="block type Motto" />
+  </ns0:Tags>
+  <ns0:Layout>
+    <ns0:Page WIDTH="1400" HEIGHT="2039" PHYSICAL_IMG_NR="195" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1400" HEIGHT="2039">
+        <ns0:TextBlock HPOS="196" VPOS="141" WIDTH="940" HEIGHT="53" ID="tr_1702555694" TAGREFS="BT100">
+          <ns0:Shape><ns0:Polygon POINTS="196 141 1136 141 1136 194 196 194" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="170" VPOS="205" WIDTH="459" HEIGHT="1560" ID="tr_1702555693" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="170 205 629 205 629 1765 170 1765" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="148" VPOS="1787" WIDTH="1019" HEIGHT="97" ID="tr_1702555696" TAGREFS="BT102">
+          <ns0:Shape><ns0:Polygon POINTS="148 1792 1167 1787 1053 1884 213 1876" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="537" VPOS="1899" WIDTH="213" HEIGHT="34" ID="tr_1702555695" TAGREFS="BT105">
+          <ns0:Shape><ns0:Polygon POINTS="537 1899 750 1899 750 1933 537 1933" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="671" VPOS="219" WIDTH="466" HEIGHT="1543" ID="tr_1702555692" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="671 219 1137 219 1137 1762 671 1762" /></ns0:Shape>
+        </ns0:TextBlock>
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

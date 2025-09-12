@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>image_024.jpg</ns0:fileName>
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT100" LABEL="header" DESCRIPTION="block type header" /><ns0:OtherTag ID="BT101" LABEL="Pricing" DESCRIPTION="block type Pricing" /><ns0:OtherTag ID="BT102" LABEL="Metadata" DESCRIPTION="block type Metadata" /><ns0:OtherTag ID="BT103" LABEL="Date(s)" DESCRIPTION="block type Date(s)" /><ns0:OtherTag ID="BT104" LABEL="Column" DESCRIPTION="block type Column" /><ns0:OtherTag ID="BT105" LABEL="footer" DESCRIPTION="block type footer" /><ns0:OtherTag ID="BT106" LABEL="Motto" DESCRIPTION="block type Motto" />
+  </ns0:Tags>
+  <ns0:Layout>
+    <ns0:Page WIDTH="1400" HEIGHT="1991" PHYSICAL_IMG_NR="23" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1400" HEIGHT="1991">
+        <ns0:TextBlock HPOS="266" VPOS="166" WIDTH="812" HEIGHT="77" ID="region_1685611219591_426" TAGREFS="BT100">
+          <ns0:Shape><ns0:Polygon POINTS="266 178 1078 166 1075 214 266 243" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="178" VPOS="249" WIDTH="504" HEIGHT="1564" ID="region_1685611238364_432" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="178 264 663 249 682 1795 214 1813" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="533" VPOS="1810" WIDTH="346" HEIGHT="39" ID="region_1685611242496_435" TAGREFS="BT105">
+          <ns0:Shape><ns0:Polygon POINTS="537 1816 877 1810 879 1842 533 1849" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="683" VPOS="240" WIDTH="538" HEIGHT="1562" ID="region_1685611229659_429" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="683 252 1221 240 1221 1802 716 1796" /></ns0:Shape>
+        </ns0:TextBlock>
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

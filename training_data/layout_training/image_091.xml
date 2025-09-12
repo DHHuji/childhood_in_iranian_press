@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>image_091.jpg</ns0:fileName>
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT100" LABEL="header" DESCRIPTION="block type header" /><ns0:OtherTag ID="BT101" LABEL="Pricing" DESCRIPTION="block type Pricing" /><ns0:OtherTag ID="BT102" LABEL="Metadata" DESCRIPTION="block type Metadata" /><ns0:OtherTag ID="BT103" LABEL="Date(s)" DESCRIPTION="block type Date(s)" /><ns0:OtherTag ID="BT104" LABEL="Column" DESCRIPTION="block type Column" /><ns0:OtherTag ID="BT105" LABEL="footer" DESCRIPTION="block type footer" /><ns0:OtherTag ID="BT106" LABEL="Motto" DESCRIPTION="block type Motto" />
+  </ns0:Tags>
+  <ns0:Layout>
+    <ns0:Page WIDTH="1400" HEIGHT="1930" PHYSICAL_IMG_NR="90" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1400" HEIGHT="1930">
+        <ns0:TextBlock HPOS="369" VPOS="189" WIDTH="952" HEIGHT="42" ID="tr_1701611051" TAGREFS="BT100">
+          <ns0:Shape><ns0:Polygon POINTS="369 189 1321 189 1321 231 369 231" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="371" VPOS="241" WIDTH="334" HEIGHT="1661" ID="tr_1701611050" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="371 241 705 241 705 1902 371 1902" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="708" VPOS="231" WIDTH="320" HEIGHT="1645" ID="tr_1701611048" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="708 231 1028 231 1028 1876 708 1876" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="1033" VPOS="234" WIDTH="311" HEIGHT="1650" ID="tr_1701611049" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="1033 234 1343 234 1344 1869 1229 1883 1038 1884" /></ns0:Shape>
+        </ns0:TextBlock>
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>

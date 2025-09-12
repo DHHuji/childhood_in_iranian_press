@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <ns0:Description>
+    <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+    <ns0:sourceImageInformation>
+      <ns0:fileName>image_097.jpg</ns0:fileName>
+    </ns0:sourceImageInformation>
+  </ns0:Description>
+  <ns0:Tags>
+    <ns0:OtherTag ID="BT100" LABEL="header" DESCRIPTION="block type header" /><ns0:OtherTag ID="BT101" LABEL="Pricing" DESCRIPTION="block type Pricing" /><ns0:OtherTag ID="BT102" LABEL="Metadata" DESCRIPTION="block type Metadata" /><ns0:OtherTag ID="BT103" LABEL="Date(s)" DESCRIPTION="block type Date(s)" /><ns0:OtherTag ID="BT104" LABEL="Column" DESCRIPTION="block type Column" /><ns0:OtherTag ID="BT105" LABEL="footer" DESCRIPTION="block type footer" /><ns0:OtherTag ID="BT106" LABEL="Motto" DESCRIPTION="block type Motto" />
+  </ns0:Tags>
+  <ns0:Layout>
+    <ns0:Page WIDTH="1400" HEIGHT="1931" PHYSICAL_IMG_NR="96" ID="eSc_dummypage_">
+      <ns0:PrintSpace HPOS="0" VPOS="0" WIDTH="1400" HEIGHT="1931">
+        <ns0:TextBlock HPOS="409" VPOS="164" WIDTH="936" HEIGHT="38" ID="tr_1701770807" TAGREFS="BT100">
+          <ns0:Shape><ns0:Polygon POINTS="409 164 1345 164 1345 202 409 202" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="372" VPOS="224" WIDTH="334" HEIGHT="502" ID="tr_1701770814" TAGREFS="BT101">
+          <ns0:Shape><ns0:Polygon POINTS="372 224 706 224 706 726 372 726" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="378" VPOS="797" WIDTH="946" HEIGHT="96" ID="tr_1701770812" TAGREFS="BT106">
+          <ns0:Shape><ns0:Polygon POINTS="378 797 1324 797 1324 893 378 893" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="379" VPOS="914" WIDTH="305" HEIGHT="936" ID="tr_1701770806" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="379 914 684 914 684 1850 379 1850" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="755" VPOS="545" WIDTH="221" HEIGHT="148" ID="tr_1701770810" TAGREFS="BT102">
+          <ns0:Shape><ns0:Polygon POINTS="755 545 976 545 976 693 755 693" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="703" VPOS="912" WIDTH="309" HEIGHT="934" ID="tr_1701770808" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="703 912 1012 912 1012 1846 703 1846" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="1049" VPOS="232" WIDTH="284" HEIGHT="488" ID="tr_1701770811" TAGREFS="BT102">
+          <ns0:Shape><ns0:Polygon POINTS="1049 232 1333 232 1333 720 1049 720" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="380" VPOS="729" WIDTH="942" HEIGHT="60" ID="tr_1701770813" TAGREFS="BT103">
+          <ns0:Shape><ns0:Polygon POINTS="380 729 1322 729 1322 789 380 789" /></ns0:Shape>
+        </ns0:TextBlock>
+        <ns0:TextBlock HPOS="1030" VPOS="936" WIDTH="306" HEIGHT="896" ID="tr_1701770809" TAGREFS="BT104">
+          <ns0:Shape><ns0:Polygon POINTS="1030 936 1336 936 1336 1832 1030 1832" /></ns0:Shape>
+        </ns0:TextBlock>
+      </ns0:PrintSpace>
+    </ns0:Page>
+  </ns0:Layout>
+</ns0:alto>
