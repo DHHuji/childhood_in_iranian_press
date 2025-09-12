@@ -4,4 +4,4 @@ As part of a study on the history of children and childhood in modern Iran, this
 Escriptorium Tools:
 1. Colab Tutorial of Prof. Daniel Stockl: https://colab.research.google.com/drive/1hyBDa55mPolZve4Ih1qpXd94i6f8Xno-
 
-2. Additional functions: https://colab.research.google.com/drive/1hEk1Tkda_rB0mWPAd4IdzvJPf_1Nr8p7#scrollTo=C6SU61rMc-6t
+2. Additional functions: https://colab.research.google.com/drive/1_NXUDOfe2i42G7EwEUHkkhbYFd7TbaP9
