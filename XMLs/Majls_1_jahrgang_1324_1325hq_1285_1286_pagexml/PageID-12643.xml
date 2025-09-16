@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-06-12T15:16:46.518357+00:00</Created>
+        <LastChange>2025-06-13T07:43:58.137113+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PageID-12643.jpg" imageWidth="1400" imageHeight="1945">
+    <TextRegion id="eSc_textblock_5e4c9bf1"  custom="structure {type:header;}">
+      <Coords points="216,151 993,151 1080,176 1019,202 151,197 142,168 216,151"/>
+      <TextLine id="eSc_line_2d3d21e1" custom="structure {type:default;}">
+        <Coords points="1030,164 1019,164 1008,165 997,165 987,166 976,166 965,167 954,167 954,186 953,229 1038,219 1040,189 1038,167 1030,164"/>
+        <Baseline points="954,186 1040,189"/>
+        <TextEquiv conf="0.820430064201355">
+          <Unicode>ففعه۴</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_77e8fc6d"  custom="structure {type:Metadata;}">
+      <Coords points="650,518 751,518 738,530 768,570 751,591 790,596 755,616 777,631 768,677 807,686 768,695 781,750 760,768 803,760 846,778 820,790 842,828 808,841 808,855 868,855 860,812 895,790 864,789 864,778 894,778 903,760 916,778 958,778 972,760 1010,778 1032,963 1028,1187 968,1187 960,1131 958,1187 856,1183 842,1196 1015,1192 1028,1308 837,1321 1036,1331 1032,1451 1015,1485 1049,1599 1049,1684 1003,1684 989,1658 972,1667 963,1628 938,1654 934,1530 911,1520 859,1525 872,1576 846,1633 850,1662 825,1615 803,1675 778,1641 772,1671 751,1677 855,1684 527,1680 513,1611 505,1624 497,1538 782,1516 772,1503 523,1503 549,1378 575,1352 778,1343 527,1325 527,1275 686,1262 735,1243 527,1222 570,1178 570,1084 527,972 704,954 531,941 527,886 696,864 527,859 505,811 540,790 691,781 527,772 505,729 527,695 696,690 518,673 523,622 696,604 527,591 518,535 650,518"/>
+      <TextLine id="eSc_line_f1a605ac" custom="structure {type:default;}">
+        <Coords points="871,1461 875,1451 876,1444 876,1422 876,1418 876,1407 876,1397 875,1386 875,1375 874,1364 874,1353 873,1343 857,1344 830,1345 836,1362 832,1371 829,1377 829,1378 829,1379 831,1405 831,1406 836,1422 838,1429 837,1433 831,1449 831,1450 831,1451 831,1452 840,1473 860,1473 864,1469 871,1461"/>
+        <Baseline points="857,1344 860,1473"/>
+        <TextEquiv conf="0.571751030428069">
+          <Unicode>ماناکنی</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_8c25eb7c"  custom="structure {type:footer;}">
+      <Coords points="516,1767 548,1767 548,1771 514,1771 516,1767"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3aa56265"  custom="structure {type:footer;}">
+      <Coords points="555,1772 578,1772 578,1775 553,1775 555,1772"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_44022bfa"  custom="structure {type:footer;}">
+      <Coords points="591,1772 595,1772 595,1775 588,1775 591,1772"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2adad471"  custom="structure {type:footer;}">
+      <Coords points="647,1772 651,1772 651,1775 644,1775 647,1772"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_48c884d8"  custom="structure {type:Date(s);}">
+      <Coords points="769,1672 772,1672 772,1675 769,1675 769,1672"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_65f982f4"  custom="structure {type:Metadata;}">
+      <Coords points="568,272 708,272 751,285 729,314 760,332 751,387 772,392 751,393 751,487 725,501 747,513 691,513 682,495 660,501 677,508 536,508 510,491 527,471 579,458 717,452 562,448 514,431 527,406 570,393 704,387 531,379 510,357 510,302 704,284 568,272"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5fa326ad"  custom="structure {type:Metadata;}">
+      <Coords points="845,1672 850,1672 850,1675 843,1675 845,1672"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3faf150f"  custom="structure {type:Metadata;}">
+      <Coords points="907,691 911,695 911,712 903,712 907,691"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d30b4e9c"  custom="structure {type:Metadata;}">
+      <Coords points="941,1681 941,1684 938,1684 938,1681 941,1681"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_494c476d"  custom="structure {type:footer;}">
+      <Coords points="499,1754 517,1754 517,1758 497,1758 499,1754"/>
+    </TextRegion>
+  </Page>
+</PcGts>

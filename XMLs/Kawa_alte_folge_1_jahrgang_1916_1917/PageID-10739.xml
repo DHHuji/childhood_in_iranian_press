@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-09-16T10:25:19.136401+00:00</Created>
+        <LastChange>2025-09-16T10:53:06.116577+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PageID-10739.jpg" imageWidth="1400" imageHeight="1797">
+    <TextRegion id="eSc_textblock_1c683949"  custom="structure {type:header;}">
+      <Coords points="440,215 1132,215 1164,238 1132,270 833,270 191,262 147,234 167,219 440,215"/>
+      <TextLine id="eSc_line_ff1bc74b" custom="structure {type:default;}">
+        <Coords points="216,229 206,225 196,220 194,219 187,219 156,224 156,247 156,261 222,257 222,247 220,231 216,229"/>
+        <Baseline points="156,247 222,247"/>
+        <TextEquiv conf="0.9029934654633204">
+          <Unicode>شماره1</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82058e8b" custom="structure {type:default;}">
+        <Coords points="727,235 720,228 694,223 688,223 678,223 668,223 658,223 648,223 638,223 637,223 572,227 568,229 568,248 567,261 731,266 733,250 729,237 727,235"/>
+        <Baseline points="568,248 733,250"/>
+        <TextEquiv conf="0.9998303651809692">
+          <Unicode>کاوه</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

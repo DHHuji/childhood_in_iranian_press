@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-06-12T15:42:36.385374+00:00</Created>
+        <LastChange>2025-06-13T09:22:34.388522+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PageID-12581.jpg" imageWidth="1400" imageHeight="1945">
+    <TextRegion id="eSc_textblock_58d8f71e"  custom="structure {type:header;}">
+      <Coords points="683,181 993,181 1075,194 1075,206 1036,219 677,223 168,223 155,210 172,185 683,181"/>
+      <TextLine id="eSc_line_4cb52153" custom="structure {type:default;}">
+        <Coords points="1030,186 1019,185 1008,184 997,183 987,182 976,181 976,208 975,215 1041,220 1043,209 1040,186 1030,186"/>
+        <Baseline points="976,208 1043,209"/>
+        <TextEquiv conf="0.8861865550279617">
+          <Unicode>صفحه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_83a622fd" custom="structure {type:default;}">
+        <Coords points="690,190 680,190 669,190 658,190 647,190 640,190 615,191 616,212 616,223 695,217 695,211 691,190 690,190"/>
+        <Baseline points="616,212 695,211"/>
+        <TextEquiv conf="0.9965473562479019">
+          <Unicode>مجلس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_75bca9fd" custom="structure {type:default;}">
+        <Coords points="222,194 211,194 201,194 190,195 179,195 168,196 157,196 157,221 156,252 228,252 229,222 228,196 222,194"/>
+        <Baseline points="157,221 229,222"/>
+        <TextEquiv conf="0.957553505897522">
+          <Unicode>شماره ۱۵</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9de68741"  custom="structure {type:Column;}">
+      <Coords points="984,230 1084,229 1101,250 1105,569 1092,574 1101,634 1088,647 778,647 768,310 751,647 445,647 445,635 575,618 462,616 462,600 441,595 431,258 422,582 409,616 376,608 379,625 357,631 418,642 125,655 90,634 82,458 90,259 103,246 984,230"/>
+      <TextLine id="eSc_line_be21c63d" custom="structure {type:default;}">
+        <Coords points="779,256 780,275 805,267 844,273 852,274 854,274 885,272 961,265 996,267 1027,270 1028,270 1029,270 1035,266 1040,264 1044,266 1056,271 1057,271 1058,271 1059,271 1084,264 1084,251 1081,234 778,234 779,256"/>
+        <Baseline points="779,256 1084,251"/>
+        <TextEquiv conf="0.9420299240060754">
+          <Unicode>بهتر است اولا عدد فوس بری سر باز معین</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cd65f644" custom="structure {type:default;}">
+        <Coords points="449,260 449,278 648,270 676,275 677,275 678,275 694,269 750,274 752,255 749,236 448,238 449,260"/>
+        <Baseline points="449,260 752,255"/>
+        <TextEquiv conf="0.9370490839315015">
+          <Unicode>داخله وغیره تمام اینها بطور دقب قلم بقام از</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_334c58d9" custom="structure {type:default;}">
+        <Coords points="781,291 781,305 1085,299 1085,285 1081,260 1060,266 998,262 984,261 983,261 982,261 981,261 980,262 970,269 780,267 781,291"/>
+        <Baseline points="781,291 1085,285"/>
+        <TextEquiv conf="0.9815170533127255">
+          <Unicode>شوده دیگر امروز در دهات ابران مالکین</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5922d5c5" custom="structure {type:default;}">
+        <Coords points="245,262 244,282 412,283 415,263 415,247 401,239 400,239 362,239 361,239 360,239 358,239 358,240 352,246 350,247 245,245 245,262"/>
+        <Baseline points="245,262 415,263"/>
+        <TextEquiv conf="0.9271729052066803">
+          <Unicode>باید کم کم درست شود.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6411942c" custom="structure {type:default;}">
+        <Coords points="447,292 447,307 749,306 750,290 748,271 610,265 609,265 608,265 596,272 595,272 587,272 537,266 536,266 446,272 447,292"/>
+        <Baseline points="447,292 750,290"/>
+        <TextEquiv conf="0.9616978921388325">
+          <Unicode>رای بصیرت تخمین کرده بعرض مجلس برسانند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_302a9040" custom="structure {type:default;}">
+        <Coords points="109,299 109,312 246,318 247,318 248,318 249,318 256,314 260,312 278,315 295,317 296,317 311,315 351,309 364,316 365,316 366,316 367,316 368,316 369,316 378,311 409,316 411,294 409,275 108,273 109,299"/>
+        <Baseline points="109,299 411,294"/>
+        <TextEquiv conf="0.9497467542395872">
+          <Unicode>این صورت تذکره بجندین جهه خوبست که</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bd43a00c" custom="structure {type:default;}">
+        <Coords points="781,326 781,339 1085,333 1086,319 1085,300 1060,292 1059,292 1058,292 982,301 932,294 931,294 880,303 836,297 835,297 834,297 833,297 821,305 780,305 781,326"/>
+        <Baseline points="781,326 1086,319"/>
+        <TextEquiv conf="0.9364850441614787">
+          <Unicode>در غالب جاها پول سرانه از رعیت میکیرند با این</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6fe849a6" custom="structure {type:default;}">
+        <Coords points="447,330 447,341 750,334 750,324 747,301 446,306 447,330"/>
+        <Baseline points="447,330 750,324"/>
+        <TextEquiv conf="0.9278855207489758">
+          <Unicode>اکر واقعا مالیات آمروزه کفایت کرد چه بهنز</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c2ac2281" custom="structure {type:default;}">
+        <Coords points="852,357 852,369 901,376 902,376 960,369 966,374 967,374 968,374 969,374 1087,365 1087,353 1083,328 1070,333 1049,329 1041,328 1040,328 1038,328 1034,330 1024,336 961,336 936,334 874,331 873,331 872,331 851,338 852,357"/>
+        <Baseline points="852,357 1087,353"/>
+        <TextEquiv conf="0.9610266238451004">
+          <Unicode>تقصل جرا دولت سر شماری نکبرد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cfa2c74b" custom="structure {type:default;}">
+        <Coords points="108,333 108,347 231,352 232,352 233,352 242,350 262,344 289,350 296,351 297,351 307,350 361,344 414,351 416,331 414,313 380,306 379,306 378,306 377,306 370,313 282,313 263,306 262,306 261,306 107,312 108,333"/>
+        <Baseline points="108,333 416,331"/>
+        <TextEquiv conf="0.9394086715651722">
+          <Unicode>بمردم داده شود. اولا مخارج دبوا نخانه است</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c0b3842f" custom="structure {type:default;}">
+        <Coords points="447,364 447,380 750,377 751,360 749,338 703,331 702,331 675,337 567,332 566,332 565,332 544,339 516,333 515,333 472,339 459,333 458,333 457,333 456,333 455,333 446,338 447,364"/>
+        <Baseline points="447,364 751,360"/>
+        <TextEquiv conf="0.9266883060336113">
+          <Unicode>والا انچه کم داریم میتوالیم یا از بانک ملی یا از</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf741d6f" custom="structure {type:default;}">
+        <Coords points="108,371 108,385 305,387 307,387 308,387 309,387 309,386 315,381 317,379 350,379 352,380 360,385 361,385 362,385 363,385 364,385 365,385 372,379 374,378 379,379 393,383 394,383 395,383 396,383 416,378 416,365 414,347 307,342 305,342 304,342 289,347 285,349 278,347 251,342 250,342 249,342 235,347 229,350 221,347 204,343 203,343 202,343 107,347 108,371"/>
+        <Baseline points="108,371 416,365"/>
+        <TextEquiv conf="0.9551463060908847">
+          <Unicode>دیکر عدد. وس معلوم می شود برای سریاز</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cc0973ef" custom="structure {type:default;}">
+        <Coords points="783,395 783,411 1086,407 1087,391 1084,360 1007,367 782,365 783,395"/>
+        <Baseline points="783,395 1087,391"/>
+        <TextEquiv conf="0.9430371608999041">
+          <Unicode>این فقره را ایز لازم است سرض کنم که میزی صحبح</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_77611359" custom="structure {type:default;}">
+        <Coords points="446,399 446,417 522,410 749,412 751,395 748,369 445,374 446,399"/>
+        <Baseline points="446,399 751,395"/>
+        <TextEquiv conf="0.9591752824030424">
+          <Unicode>جای دیکر قرض کنیم تارنتیکه ما خذ ممیزی</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7cb6e263" custom="structure {type:default;}">
+        <Coords points="780,427 780,444 830,449 831,449 873,444 1000,445 1001,445 1002,445 1018,439 1048,444 1049,444 1050,444 1051,444 1058,438 1068,444 1069,444 1070,444 1071,444 1089,437 1089,421 1086,400 779,403 780,427"/>
+        <Baseline points="780,427 1089,421"/>
+        <TextEquiv conf="0.9498238676303142">
+          <Unicode>دو سال اقلا کار دارد برای این چه خبال</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f91a94b" custom="structure {type:default;}">
+        <Coords points="107,405 107,417 155,422 156,422 157,422 179,417 181,416 184,416 202,422 203,422 204,422 270,420 271,420 272,420 272,419 273,419 276,414 277,412 318,412 323,414 334,419 335,419 336,419 414,412 415,398 410,373 396,379 377,374 375,374 374,374 105,384 107,405"/>
+        <Baseline points="107,405 415,398"/>
+        <TextEquiv conf="0.9699987825006247">
+          <Unicode>گرفتن خوب است. دیگر عدد اسوارهای</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4581fe6d" custom="structure {type:default;}">
+        <Coords points="447,432 448,451 480,443 541,448 553,449 554,449 565,448 602,440 632,445 651,448 652,448 750,440 751,427 748,405 446,410 447,432"/>
+        <Baseline points="447,432 751,427"/>
+        <TextEquiv conf="0.9545158969633507">
+          <Unicode>جدید و سر شماری بدست بیاید. آنوتت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f33608ab" custom="structure {type:default;}">
+        <Coords points="994,455 994,471 1089,476 1090,455 1089,432 1042,436 1035,434 1021,430 1020,430 1019,430 1018,430 994,436 994,455"/>
+        <Baseline points="994,455 1090,455"/>
+        <TextEquiv conf="0.9836882591247559">
+          <Unicode>فرمودهاند؟</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3a1adca0" custom="structure {type:default;}">
+        <Coords points="109,435 110,459 135,452 184,458 190,458 191,458 208,457 323,450 414,452 416,432 414,414 320,414 314,409 314,408 313,408 312,408 311,408 207,416 196,410 195,410 194,410 157,416 121,410 120,410 118,410 117,410 108,416 109,435"/>
+        <Baseline points="109,435 416,432"/>
+        <TextEquiv conf="0.9446480084549297">
+          <Unicode>مملک را معلوم میکند خبیلی فواید دیکر دارد که</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fcd61cf4" custom="structure {type:default;}">
+        <Coords points="449,468 450,486 470,479 517,484 535,485 536,485 537,485 538,485 540,483 549,477 593,480 622,483 623,483 624,483 632,479 640,475 645,478 649,481 650,481 651,481 652,481 754,474 754,461 751,435 665,445 636,439 623,437 622,437 621,437 620,437 617,440 610,446 602,440 598,439 597,439 596,439 595,439 590,441 578,447 539,444 502,440 501,440 500,440 499,440 492,446 487,449 484,446 477,441 476,441 475,441 474,441 448,447 449,468"/>
+        <Baseline points="449,468 754,461"/>
+        <TextEquiv conf="0.926964637709827">
+          <Unicode>آسان است هر ساله میتوانیم کم و کسر نمائیم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8eebb98a" custom="structure {type:default;}">
+        <Coords points="783,494 783,512 1086,507 1087,491 1085,470 984,463 983,463 951,470 920,464 918,464 917,464 916,464 916,465 911,471 782,472 783,494"/>
+        <Baseline points="783,494 1087,491"/>
+        <TextEquiv conf="0.9527954299275468">
+          <Unicode>بهتر این است از وزیر مابه اول مخلوج لازمه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f8189387" custom="structure {type:default;}">
+        <Coords points="234,467 234,488 412,481 412,467 411,448 234,448 234,467"/>
+        <Baseline points="234,467 412,467"/>
+        <TextEquiv conf="0.9679161434372267">
+          <Unicode>خودتنان میتونید باسنجید.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5e15cbf4" custom="structure {type:default;}">
+        <Coords points="451,500 451,512 487,518 488,518 489,518 490,518 498,512 522,512 523,512 548,518 549,518 550,518 551,518 552,518 563,511 568,511 628,517 629,517 630,517 631,517 642,511 674,516 675,516 676,516 702,510 703,510 729,516 730,516 731,516 732,516 752,508 752,497 751,479 726,471 725,471 685,471 684,471 683,471 682,471 671,478 635,472 634,472 633,472 632,472 632,473 623,479 553,472 552,472 551,472 527,481 450,481 451,500"/>
+        <Baseline points="451,500 752,497"/>
+        <TextEquiv conf="0.9422282044951981">
+          <Unicode>وبقدو مخارج خرج مالیات تمائیم. چنانجه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be44af65" custom="structure {type:default;}">
+        <Coords points="783,532 783,547 898,540 912,543 925,545 926,545 927,545 935,542 941,539 983,539 1084,541 1085,541 1086,541 1087,541 1087,540 1091,534 1091,524 1088,501 782,507 783,532"/>
+        <Baseline points="783,532 1091,524"/>
+        <TextEquiv conf="0.9455894143194765">
+          <Unicode>دولت ومفکت را بخواهند مخارج کایه قشون</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c4e68833" custom="structure {type:default;}">
+        <Coords points="112,505 112,521 417,521 417,500 415,481 111,481 112,505"/>
+        <Baseline points="112,505 417,500"/>
+        <TextEquiv conf="0.9667568547385079">
+          <Unicode>در صورنیکه نذکره که عرض شد رواج شود</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a3015f0" custom="structure {type:default;}">
+        <Coords points="447,534 447,546 547,554 548,554 549,554 550,554 550,553 551,553 554,548 602,553 603,553 661,545 731,551 732,551 734,551 752,543 752,531 750,513 722,506 721,506 674,512 673,512 672,512 631,507 630,507 629,507 628,507 622,512 618,514 446,512 447,534"/>
+        <Baseline points="447,534 752,531"/>
+        <TextEquiv conf="0.9612889640471515">
+          <Unicode>عرض شده اکر از روی سر شماری مالیات</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a53daacf" custom="structure {type:default;}">
+        <Coords points="785,564 785,575 902,583 903,583 904,583 924,574 927,573 945,573 948,574 955,581 956,581 957,581 958,581 1014,574 1056,580 1057,580 1058,580 1085,572 1085,558 1082,538 784,542 785,564"/>
+        <Baseline points="785,564 1085,558"/>
+        <TextEquiv conf="0.9659382665858549">
+          <Unicode>تخارج شخص سلطنتی. مخارج اجزا دفتر.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_354920ce" custom="structure {type:default;}">
+        <Coords points="112,538 112,558 414,551 415,534 412,518 286,513 285,513 284,513 264,518 235,513 234,513 172,519 125,514 124,514 123,514 111,519 112,538"/>
+        <Baseline points="112,538 415,534"/>
+        <TextEquiv conf="0.9450108961361211">
+          <Unicode>ده یک وده نم را هم غدغن فرمائید دیوانخاته</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_33c55362" custom="structure {type:default;}">
+        <Coords points="449,571 449,587 550,580 562,585 567,587 568,587 569,587 632,586 633,586 634,586 637,583 641,581 656,583 677,585 678,585 680,585 681,585 681,584 684,582 687,579 692,582 698,585 699,585 700,585 701,585 702,585 710,581 718,577 753,580 754,565 752,544 623,543 622,543 594,548 590,550 587,550 568,544 567,544 566,544 499,552 498,552 497,552 464,546 463,546 462,546 448,552 449,571"/>
+        <Baseline points="449,571 754,565"/>
+        <TextEquiv conf="0.9627120808551186">
+          <Unicode>بسته شود خیلی آسان تر خواهد شعد و برای</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ce1bcc47" custom="structure {type:default;}">
+        <Coords points="783,598 783,609 810,609 811,609 817,614 817,615 818,615 819,615 820,615 821,615 835,609 840,608 849,609 876,614 877,614 878,614 896,609 907,607 1086,609 1087,592 1085,573 1014,567 1012,567 951,572 880,578 858,571 854,570 852,570 851,570 782,570 783,598"/>
+        <Baseline points="783,598 1087,592"/>
+        <TextEquiv conf="0.9508586128552755">
+          <Unicode>مخارج اجزا عدایه مخارج اجزا تجارت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d7919f0" custom="structure {type:default;}">
+        <Coords points="110,573 110,587 415,588 417,569 415,551 375,545 374,545 308,552 302,552 300,552 276,546 275,546 274,546 273,546 265,552 265,553 206,553 205,553 185,547 184,547 183,547 109,554 110,573"/>
+        <Baseline points="110,573 417,569"/>
+        <TextEquiv conf="0.9280775426289974">
+          <Unicode>متروک پدارد وفقط از معاملات ملکی و تقدی</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2443bba5" custom="structure {type:default;}">
+        <Coords points="448,607 448,623 540,616 752,619 754,602 752,575 718,582 712,577 711,577 710,577 709,577 708,577 707,577 699,583 638,579 617,578 616,578 615,578 610,580 604,583 598,580 593,577 592,577 591,577 590,577 589,577 571,581 565,583 563,581 557,577 556,577 555,577 526,577 525,577 524,577 508,583 507,583 504,583 458,579 457,579 456,579 455,579 447,582 448,607"/>
+        <Baseline points="448,607 509,602 754,602"/>
+        <TextEquiv conf="0.9511287467820304">
+          <Unicode>اراضی هم مینوان قرار معین داد که مثلا برای</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_35ee7cd9" custom="structure {type:default;}">
+        <Coords points="110,604 109,616 211,625 212,625 416,620 417,607 415,582 216,585 110,580 110,604"/>
+        <Baseline points="110,604 417,607"/>
+        <TextEquiv conf="0.9343419540219191">
+          <Unicode>بجهه حق ازحمه و تمت و ضبط مطلب تومانی چند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b3f752e3" custom="structure {type:default;}">
+        <Coords points="111,639 111,658 140,665 141,665 184,659 190,659 193,660 211,665 212,665 214,665 215,665 229,660 231,659 233,660 244,665 245,665 246,666 301,666 301,665 302,665 303,665 308,661 311,659 415,662 416,639 415,615 200,620 187,619 135,614 134,614 132,614 111,620 111,639"/>
+        <Baseline points="111,639 416,639"/>
+        <TextEquiv conf="0.9243174074661165">
+          <Unicode>دیناری قدر یکه خبلی سنکین نیاشد بدیوانخانه</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4813e294"  custom="structure {type:Metadata;}">
+      <Coords points="969,695 1041,704 1036,781 921,781 912,717 969,695"/>
+      <TextLine id="eSc_line_b5a097a0" custom="structure {type:default;}">
+        <Coords points="1000,718 989,713 935,713 935,738 935,747 960,754 961,754 1001,748 1001,738 1000,718 1000,718"/>
+        <Baseline points="935,738 1001,738"/>
+        <TextEquiv conf="0.9832517164094108">
+          <Unicode>قوی ایل</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f80c53ce"  custom="structure {type:Column;}">
+      <Coords points="172,803 997,803 1020,838 1036,825 1036,850 1002,863 1041,868 1045,945 1015,963 1028,972 1015,984 648,980 535,1001 320,997 292,1005 349,1011 349,1031 168,1040 147,1015 289,1005 129,997 147,989 125,984 116,821 172,803"/>
+      <TextLine id="eSc_line_1b66c981" custom="structure {type:default;}">
+        <Coords points="1027,799 1016,797 1005,795 716,797 686,801 676,802 665,801 621,798 620,798 572,803 571,803 570,803 552,799 551,799 550,799 549,799 548,799 541,805 540,805 537,805 497,800 496,800 463,806 462,806 461,806 416,801 415,801 414,801 412,801 412,802 411,802 408,807 375,802 374,802 345,808 347,824 347,836 409,842 410,842 411,842 412,842 420,836 422,835 433,836 480,841 481,841 482,841 500,836 507,834 514,835 537,840 538,840 562,835 575,833 587,835 609,839 610,839 611,839 621,835 627,833 644,835 673,838 674,838 743,834 785,832 793,834 801,836 802,836 803,836 815,834 833,829 854,833 864,835 865,835 867,835 868,835 870,833 876,828 926,833 942,834 943,834 951,833 983,826 1030,832 1031,813 1028,799 1027,799"/>
+        <Baseline points="347,824 1031,813"/>
+        <TextEquiv conf="0.9410651164896348">
+          <Unicode>۱ - دارای این سر کامه حق دارد اگر با و تعدی وستمی وارد ایدار دیونحنه رفع داد خوهی تید</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_33927a54" custom="structure {type:default;}">
+        <Coords points="161,860 161,878 271,879 272,879 273,879 274,879 274,878 277,876 283,872 327,875 368,877 369,877 370,877 384,873 398,868 460,868 491,870 538,874 539,874 540,874 541,874 549,869 554,865 615,865 629,867 659,872 660,872 702,865 720,863 745,864 818,868 819,868 870,862 884,867 885,867 886,867 1035,856 1035,846 1034,826 1010,819 1009,819 1008,819 1007,819 1006,819 996,826 952,820 951,820 950,820 924,827 885,822 884,822 883,822 857,828 833,822 832,822 831,822 774,830 772,830 739,825 738,825 636,833 622,826 621,826 620,826 498,836 494,837 481,837 454,837 444,829 443,829 442,829 441,829 403,837 390,830 389,830 388,830 387,830 371,838 341,832 340,832 242,834 241,834 240,834 229,840 172,835 171,835 170,835 169,835 165,837 161,860"/>
+        <Baseline points="161,860 392,860 1035,846"/>
+        <TextEquiv conf="0.9437987029552459">
+          <Unicode>- دبوانانه معبور است داد خواهی نماید اکر چه مدعی راد خواه خیلی نزرک و خود او خیلی پس باشد والا در پیش ملت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_363453fb" custom="structure {type:default;}">
+        <Coords points="162,893 162,907 280,904 290,906 302,909 303,909 304,909 305,909 315,906 325,903 355,905 397,908 398,908 429,904 442,902 452,903 475,907 476,907 477,907 488,903 492,901 510,902 551,906 552,906 553,906 563,901 566,900 572,901 593,905 594,905 825,897 874,902 875,902 876,902 894,895 945,901 947,901 948,901 966,894 1021,900 1022,900 1023,900 1024,900 1035,893 1035,881 1032,857 872,865 829,860 814,859 812,859 811,859 806,861 788,866 710,862 703,862 702,862 698,862 654,867 643,863 638,861 637,861 636,861 611,863 574,867 565,864 560,862 558,862 557,862 556,862 548,864 527,869 500,865 487,863 486,863 397,864 396,864 390,866 376,872 161,870 162,893"/>
+        <Baseline points="162,893 1035,881"/>
+        <TextEquiv conf="0.9116649837284297">
+          <Unicode>اجزای ان منصر مستند مگر مطلب او پیش و پیشتر از موعد مهفی که در نغظامنامه دبواشخته مقرر است </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c33932b6" custom="structure {type:default;}">
+        <Coords points="334,926 334,945 365,939 393,944 401,945 402,945 403,945 408,944 420,940 483,942 529,943 530,943 531,943 539,940 552,935 569,940 581,942 582,942 615,939 641,935 655,937 681,941 682,941 683,941 684,941 684,940 688,936 692,933 703,935 721,940 722,940 750,934 764,932 769,934 779,939 780,939 781,939 805,933 810,932 812,933 823,937 824,937 825,937 900,932 936,936 937,936 1034,927 1034,915 1030,890 1012,897 931,897 903,892 894,891 892,891 891,891 886,893 869,899 855,893 854,893 852,893 764,893 763,893 762,893 754,895 737,901 703,896 683,894 682,894 640,897 584,903 540,900 497,897 496,897 495,897 483,902 472,905 463,902 456,899 455,899 454,899 452,899 443,902 437,905 332,905 334,926"/>
+        <Baseline points="334,926 1034,915"/>
+        <TextEquiv conf="0.9313644614625485">
+          <Unicode>۳ س در صورنیکه کسی این سر نامه را نداشته باشد دیوانخانه مجبور نیست و رسیدگی بعرض اد مخواهد کرد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a79af289" custom="structure {type:default;}">
+        <Coords points="164,964 164,975 206,984 207,984 295,983 404,981 405,981 431,972 432,972 452,980 454,980 455,981 498,981 498,980 531,973 548,978 549,978 550,978 621,977 622,977 623,977 633,970 635,969 705,969 730,975 731,975 732,975 734,975 751,968 752,968 755,968 798,973 800,973 841,967 849,966 857,967 898,972 899,972 900,972 901,972 911,966 913,964 917,966 932,970 934,970 935,970 936,970 945,966 947,964 948,966 956,971 957,971 958,971 960,971 961,971 974,964 977,963 1034,963 1035,950 1032,922 922,930 902,924 900,924 899,924 898,924 897,924 896,926 884,931 840,927 837,927 836,927 835,927 834,927 824,933 715,933 705,930 700,928 699,928 698,928 697,928 690,930 678,934 668,930 663,929 662,929 661,929 650,931 628,935 592,932 565,930 564,930 529,933 496,937 473,935 456,933 455,933 427,936 403,939 400,936 395,933 394,933 393,933 392,933 372,937 361,940 322,939 229,935 228,935 163,942 164,964"/>
+        <Baseline points="164,964 1035,950"/>
+        <TextEquiv conf="0.9615483283996582">
+          <Unicode> - تمام مرد وزن باید دارای این سرنامه باشند و قیمت این سرامه برای مرد چهار صد دینار و برای زن دریست دینار صفیر و</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_480616cf"  custom="structure {type:Metadata;}">
+      <Coords points="608,701 738,713 742,776 729,789 441,781 432,704 608,701"/>
+      <TextLine id="eSc_line_a91a6572" custom="structure {type:default;}">
+        <Coords points="452,718 454,745 454,756 745,752 745,739 743,714 670,709 669,709 643,714 628,716 618,714 605,711 604,711 603,711 561,714 512,718 505,714 503,713 502,713 501,713 500,713 499,713 494,714 477,719 461,716 452,718"/>
+        <Baseline points="454,745 745,739"/>
+        <TextEquiv conf="0.9587565456948629">
+          <Unicode>اداره سرئامه رعایای کل ممالک محروسه ایران</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_bab5949b"  custom="structure {type:Date(s);}">
+      <Coords points="818,1041 924,1045 1006,1079 791,1083 803,1066 722,1062 818,1041"/>
+      <TextLine id="eSc_line_359e1b70" custom="structure {type:default;}">
+        <Coords points="664,1058 664,1075 1031,1061 1031,1050 1030,1031 1012,1025 1011,1025 1010,1025 938,1033 924,1027 923,1027 922,1027 777,1036 756,1030 755,1030 754,1030 663,1039 664,1058"/>
+        <Baseline points="664,1058 1031,1050"/>
+        <TextEquiv conf="0.9654698980615494">
+          <Unicode>ع - از روز تولد هر کس باید دارای این تذکره باشد</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_663cdc28"  custom="structure {type:Metadata;}">
+      <Coords points="558,1119 690,1119 699,1127 677,1136 686,1157 660,1187 609,1196 540,1178 526,1148 488,1135 558,1119"/>
+      <TextLine id="eSc_line_19ce1fb8" custom="structure {type:default;}">
+        <Coords points="495,1132 495,1160 544,1160 545,1160 547,1160 547,1159 548,1159 551,1155 575,1159 577,1159 578,1159 579,1159 596,1150 622,1150 635,1157 635,1158 636,1158 637,1158 638,1158 645,1157 683,1149 691,1156 695,1128 691,1109 494,1116 495,1132"/>
+        <Baseline points="495,1132 695,1128"/>
+        <TextEquiv conf="0.9373742842674255">
+          <Unicode>محل مصی مامور اداره مالبه</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2998ff6b"  custom="structure {type:Metadata;}">
+      <Coords points="494,1275 708,1283 738,1321 557,1325 536,1317 548,1299 514,1295 522,1282 480,1282 494,1275"/>
+      <TextLine id="eSc_line_3a974437" custom="structure {type:default;}">
+        <Coords points="696,1270 645,1272 642,1278 643,1291 643,1308 660,1313 661,1313 662,1313 701,1307 701,1288 699,1278 696,1270"/>
+        <Baseline points="643,1291 701,1288"/>
+        <TextEquiv conf="0.8804173866907755">
+          <Unicode>قری بل</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f77ccb76"  custom="structure {type:Pricing;}">
+      <Coords points="258,1119 357,1132 353,1148 285,1152 280,1197 302,1231 349,1227 357,1265 233,1256 259,1209 250,1171 190,1148 190,1132 258,1119"/>
+      <TextLine id="eSc_line_2af7f1b6" custom="structure {type:default;}">
+        <Coords points="156,1156 273,1159 274,1159 308,1150 308,1136 307,1097 258,1101 251,1095 248,1093 248,1092 247,1092 246,1092 194,1090 193,1090 192,1090 185,1093 170,1101 158,1092 156,1136 156,1156"/>
+        <Baseline points="156,1136 308,1136"/>
+        <TextEquiv conf="0.8359909835788939">
+          <Unicode>معمل مهراداره ذکره</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_41670457"  custom="structure {type:Date(s);}">
+      <Coords points="696,1443 837,1451 824,1464 755,1451 540,1459 696,1443"/>
+      <TextLine id="eSc_line_9fa6be6f" custom="structure {type:default;}">
+        <Coords points="806,1450 805,1458 834,1460 836,1452 836,1438 806,1436 806,1450"/>
+        <Baseline points="806,1450 836,1452"/>
+        <TextEquiv conf="0.9992735385894775">
+          <Unicode>1۴</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_932470e6"  custom="structure {type:Date(s);}">
+      <Coords points="765,1581 833,1581 837,1593 761,1602 765,1581"/>
+      <TextLine id="eSc_line_8004d449" custom="structure {type:default;}">
+        <Coords points="794,1591 792,1616 834,1617 837,1593 837,1576 794,1576 794,1591"/>
+        <Baseline points="794,1591 837,1593"/>
+        <TextEquiv conf="0.6153769876275744">
+          <Unicode>بشع بدر</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9a0de5a8"  custom="structure {type:Date(s);}">
+      <Coords points="766,1651 833,1651 842,1658 761,1667 766,1651"/>
+      <TextLine id="eSc_line_d0aac294" custom="structure {type:default;}">
+        <Coords points="803,1659 803,1672 837,1672 837,1659 837,1645 803,1645 803,1659"/>
+        <Baseline points="803,1659 837,1659"/>
+        <TextEquiv conf="0.8641228775183359">
+          <Unicode>لما هه</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f99a806a"  custom="structure {type:Date(s);}">
+      <Coords points="641,1478 837,1478 842,1485 829,1498 553,1494 641,1478"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_48eed5ec"  custom="structure {type:Date(s);}">
+      <Coords points="710,1084 772,1084 772,1088 704,1088 710,1084"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b6788e74"  custom="structure {type:Date(s);}">
+      <Coords points="765,1512 833,1512 837,1524 761,1528 765,1512"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_46de96b6"  custom="structure {type:Date(s);}">
+      <Coords points="792,648 820,648 820,651 787,651 792,648"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_78ce790c"  custom="structure {type:Date(s);}">
+      <Coords points="869,1089 881,1089 881,1092 864,1092 869,1089"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_8f976521"  custom="structure {type:Date(s);}">
+      <Coords points="896,1089 902,1089 902,1092 890,1092 896,1089"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6ca2da2f"  custom="structure {type:Date(s);}">
+      <Coords points="917,1089 928,1089 928,1092 912,1092 917,1089"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fa22f620"  custom="structure {type:Date(s);}">
+      <Coords points="540,1689 638,1689 638,1693 531,1697 540,1689"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_12f0558e"  custom="structure {type:Date(s);}">
+      <Coords points="566,1651 725,1651 742,1662 536,1662 566,1651"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f1a8bae9"  custom="structure {type:Date(s);}">
+      <Coords points="631,1512 725,1512 747,1524 540,1528 631,1512"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_98de131a"  custom="structure {type:Date(s);}">
+      <Coords points="645,1547 738,1551 742,1559 549,1563 645,1547"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d1e1140b"  custom="structure {type:Date(s);}">
+      <Coords points="628,1581 742,1586 747,1593 553,1598 628,1581"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_7e587f73"  custom="structure {type:Date(s);}">
+      <Coords points="627,1616 837,1616 842,1624 540,1632 627,1616"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_89bd0363"  custom="structure {type:Date(s);}">
+      <Coords points="764,1553 772,1559 761,1563 761,1551 764,1553"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_23eb2116"  custom="structure {type:Date(s);}">
+      <Coords points="768,1696 765,1697 765,1694 768,1694 768,1696"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_cc538cf8"  custom="structure {type:Date(s);}">
+      <Coords points="822,1689 824,1697 817,1697 817,1689 822,1689"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fe1cd0db"  custom="structure {type:Metadata;}">
+      <Coords points="630,1004 634,1007 634,1010 627,1010 630,1004"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_713ffa52"  custom="structure {type:Metadata;}">
+      <Coords points="632,989 742,989 742,993 627,993 632,989"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_aa42cc17"  custom="structure {type:Metadata;}">
+      <Coords points="738,788 735,789 735,786 738,786 738,788"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f7a04891"  custom="structure {type:Metadata;}">
+      <Coords points="805,695 833,700 833,750 765,746 774,704 805,695"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ca5d7c32"  custom="structure {type:Metadata;}">
+      <Coords points="805,652 842,656 842,660 787,668 805,652"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b583b4c6"  custom="structure {type:Metadata;}">
+      <Coords points="831,989 842,989 842,993 825,993 831,989"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_309b3835"  custom="structure {type:Metadata;}">
+      <Coords points="860,989 911,989 911,993 856,993 860,989"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3dc666ad"  custom="structure {type:Metadata;}">
+      <Coords points="932,991 929,993 929,989 932,989 932,991"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b2843d07"  custom="structure {type:Metadata;}">
+      <Coords points="948,574 971,574 971,578 942,578 948,574"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6588743d"  custom="structure {type:Metadata;}">
+      <Coords points="995,574 1002,579 1002,582 990,582 995,574"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_31c182d3"  custom="structure {type:Metadata;}">
+      <Coords points="1008,985 1023,985 1032,1001 1007,1005 1008,985"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_15fc7f06"  custom="structure {type:Metadata;}">
+      <Coords points="1021,860 1023,863 1016,863 1016,860 1021,860"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0a46359b"  custom="structure {type:Metadata;}">
+      <Coords points="445,1063 452,1063 452,1066 441,1066 445,1063"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4e9fe40b"  custom="structure {type:Metadata;}">
+      <Coords points="537,1002 582,1007 562,1015 604,1002 601,1015 907,1018 635,1023 760,1036 674,1036 712,1053 661,1058 725,1066 608,1079 505,1079 423,1053 513,1045 480,1015 537,1002"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_cf00b807"  custom="structure {type:Metadata;}">
+      <Coords points="783,1033 790,1033 790,1036 778,1036 783,1033"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2f6429c2"  custom="structure {type:Metadata;}">
+      <Coords points="788,1089 816,1089 816,1092 782,1092 788,1089"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4c3cd8ca"  custom="structure {type:Metadata;}">
+      <Coords points="827,1089 837,1089 837,1092 821,1092 827,1089"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c245bb76"  custom="structure {type:Metadata;}">
+      <Coords points="825,1149 911,1158 902,1256 895,1192 873,1196 855,1170 825,1191 821,1167 808,1170 825,1149"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e22f7a82"  custom="structure {type:Metadata;}">
+      <Coords points="876,1087 873,1088 873,1084 876,1084 876,1087"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_18ced2cd"  custom="structure {type:Metadata;}">
+      <Coords points="876,1255 873,1256 873,1253 876,1253 876,1255"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4aefeb96"  custom="structure {type:Metadata;}">
+      <Coords points="861,1288 920,1288 937,1321 924,1338 821,1321 861,1288"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b87b551f"  custom="structure {type:Metadata;}">
+      <Coords points="896,1754 902,1754 902,1762 890,1762 896,1754"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e0912984"  custom="structure {type:Metadata;}">
+      <Coords points="896,1084 911,1084 911,1088 890,1088 896,1084"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_af8ca5d4"  custom="structure {type:Metadata;}">
+      <Coords points="1023,1013 1028,1018 1007,1018 1007,1015 1023,1013"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_72285ab2"  custom="structure {type:Pricing;}">
+      <Coords points="132,1132 141,1132 141,1152 129,1152 132,1132"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ec7ce5fb"  custom="structure {type:Pricing;}">
+      <Coords points="197,743 202,759 168,755 168,747 197,743"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_a7b5bfd7"  custom="structure {type:Pricing;}">
+      <Coords points="197,773 197,776 194,776 194,773 197,773"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_28f0e771"  custom="structure {type:Pricing;}">
+      <Coords points="193,998 336,998 357,1010 198,1010 193,998"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f0f33659"  custom="structure {type:Pricing;}">
+      <Coords points="258,1102 353,1102 353,1105 250,1109 258,1102"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1421ec81"  custom="structure {type:Pricing;}">
+      <Coords points="318,1357 331,1357 336,1364 311,1364 318,1357"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1eee1715"  custom="structure {type:Pricing;}">
+      <Coords points="327,1391 336,1391 336,1394 324,1394 327,1391"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_614681ae"  custom="structure {type:Motto;}">
+      <Coords points="338,713 353,713 353,716 337,716 338,713"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b524c589"  custom="structure {type:Motto;}">
+      <Coords points="524,1149 548,1149 548,1152 527,1157 524,1149"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_247f92d9"  custom="structure {type:Date(s);}">
+      <Coords points="678,1409 820,1420 514,1420 527,1413 678,1409"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_40d89a0d"  custom="structure {type:Date(s);}">
+      <Coords points="592,1374 798,1374 807,1390 544,1382 592,1374"/>
+    </TextRegion>
+  </Page>
+</PcGts>

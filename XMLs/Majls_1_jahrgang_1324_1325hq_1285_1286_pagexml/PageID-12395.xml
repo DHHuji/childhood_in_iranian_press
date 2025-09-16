@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-06-12T15:36:04.260034+00:00</Created>
+        <LastChange>2025-06-13T08:57:13.186901+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PageID-12395.jpg" imageWidth="1400" imageHeight="1945">
+    <TextRegion id="eSc_textblock_a35eaa12"  custom="structure {type:header;}">
+      <Coords points="544,133 1080,142 1114,158 1097,184 448,189 198,189 177,184 164,158 237,138 544,133"/>
+      <TextLine id="eSc_line_820062ab" custom="structure {type:default;}">
+        <Coords points="1074,156 1063,155 1052,153 1042,152 1031,150 1020,149 1009,146 1009,168 1008,175 1042,185 1043,185 1044,185 1075,179 1076,170 1075,156 1074,156"/>
+        <Baseline points="1009,168 1076,170"/>
+        <TextEquiv conf="0.8950075507164001">
+          <Unicode>صفحه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03a4318f" custom="structure {type:default;}">
+        <Coords points="609,155 598,155 601,171 601,179 612,180 614,170 611,155 609,155"/>
+        <Baseline points="601,171 614,170"/>
+        <TextEquiv conf="0.3418378010392189">
+          <Unicode>وا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_11449222" custom="structure {type:default;}">
+        <Coords points="274,146 263,145 259,145 230,148 215,143 208,143 197,143 192,142 191,143 179,149 166,143 169,184 171,213 281,210 278,175 274,146 274,146"/>
+        <Baseline points="169,184 278,175"/>
+        <TextEquiv conf="0.9778931538263956">
+          <Unicode>شماره </Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fbe8b08c"  custom="structure {type:Column;}">
+      <Coords points="134,203 1118,211 1123,1766 1136,1848 1097,1861 791,1857 787,1044 785,1853 125,1861 121,302 134,203"/>
+      <TextLine id="eSc_line_ed1bda77" custom="structure {type:default;}">
+        <Coords points="948,198 871,205 811,200 810,200 809,200 798,205 800,222 800,240 1099,235 1100,220 1098,205 949,198 948,198"/>
+        <Baseline points="800,222 1100,220"/>
+        <TextEquiv conf="0.9585120580917181">
+          <Unicode>خلدالله ملکه تمام ولایات ممالک محروسه ایران</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_676ff19a" custom="structure {type:default;}">
+        <Coords points="467,224 467,244 775,239 775,221 772,206 465,204 467,224"/>
+        <Baseline points="467,224 775,221"/>
+        <TextEquiv conf="0.9660803938613218">
+          <Unicode>طرف ملاکین اقاشیخ یحی واز طرف تجار</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea8e943c" custom="structure {type:default;}">
+        <Coords points="131,226 131,240 283,245 284,245 337,238 338,238 339,238 360,244 361,244 362,244 363,244 379,237 380,237 381,237 398,243 400,243 401,243 438,236 440,222 436,202 130,209 131,226"/>
+        <Baseline points="131,226 440,222"/>
+        <TextEquiv conf="0.9599583506584167">
+          <Unicode>اسلام واصول امر مجلس مقدس شورای ملی اسان</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_69deefce" custom="structure {type:default;}">
+        <Coords points="798,259 798,277 1100,276 1101,255 1098,230 860,237 855,237 811,233 810,233 809,233 797,237 798,259"/>
+        <Baseline points="798,259 1101,255"/>
+        <TextEquiv conf="0.9375542271427992">
+          <Unicode>از برای مصالح امورعامه و آسایش خلق وآبادی</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_775e1029" custom="structure {type:default;}">
+        <Coords points="469,256 468,273 478,278 480,278 481,278 611,274 625,279 627,279 628,279 767,274 768,258 767,235 469,235 469,256"/>
+        <Baseline points="469,256 768,258"/>
+        <TextEquiv conf="0.9501266822218895">
+          <Unicode>معاون التجار واز طرف خرانین وقاجاریه آقا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_22ae291b" custom="structure {type:default;}">
+        <Coords points="134,260 134,279 161,274 181,278 188,279 189,279 190,279 194,278 205,274 212,277 218,279 219,279 220,279 242,276 259,274 294,275 377,277 378,277 379,277 380,277 380,276 385,272 387,272 419,276 420,276 421,276 440,270 440,257 438,239 425,233 424,233 423,233 367,238 343,233 342,233 341,233 132,240 134,260"/>
+        <Baseline points="134,260 440,257"/>
+        <TextEquiv conf="0.9768657615018446">
+          <Unicode>سو باز نموده که این ملایازی ولوطی بازی چیست</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dd247a2d" custom="structure {type:default;}">
+        <Coords points="797,292 797,307 1104,310 1105,289 1102,271 796,273 797,292"/>
+        <Baseline points="797,292 1105,289"/>
+        <TextEquiv conf="0.9183508736245772">
+          <Unicode>مملکت وحفظ حد ودرعبت وقطع دست تعدی</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b46ea11c" custom="structure {type:default;}">
+        <Coords points="469,294 469,310 767,307 768,292 765,267 715,273 685,269 678,267 677,267 468,271 469,294"/>
+        <Baseline points="469,294 768,292"/>
+        <TextEquiv conf="0.9510837986662581">
+          <Unicode>شیخ محسن خان واز طرف علما و کسیه هنوز</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3e1bd715" custom="structure {type:default;}">
+        <Coords points="138,296 138,311 440,311 440,291 436,271 137,274 138,296"/>
+        <Baseline points="138,296 440,291"/>
+        <TextEquiv conf="0.9191213182427667">
+          <Unicode>امیان آورده مسقدعی و منظلم این فقرا وضعیاً ر</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_58ad8027" custom="structure {type:default;}">
+        <Coords points="802,327 802,342 1099,340 1100,323 1098,305 801,305 802,327"/>
+        <Baseline points="802,327 1100,323"/>
+        <TextEquiv conf="0.9792383102809682">
+          <Unicode>همایگان واشاعه معارف وتروج صنابع و</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d182c15a" custom="structure {type:default;}">
+        <Coords points="470,329 470,343 490,350 491,350 492,350 532,343 535,343 543,343 742,350 743,350 744,350 769,341 769,327 766,304 641,309 636,306 630,302 629,302 628,302 627,302 582,309 569,310 565,309 548,303 547,303 545,303 510,310 509,310 480,303 478,303 477,303 476,303 469,307 470,329"/>
+        <Baseline points="470,329 769,327"/>
+        <TextEquiv conf="0.9287048578262329">
+          <Unicode>تعبین نشده است وبعد از عاشورا وکلا حرکت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_506f3300" custom="structure {type:default;}">
+        <Coords points="132,328 132,347 292,343 323,344 388,349 389,349 438,342 438,328 437,305 132,305 132,328"/>
+        <Baseline points="132,328 438,328"/>
+        <TextEquiv conf="0.9828095909427194">
+          <Unicode>از این طبفه راحت نموده بشخص مسلمان</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6ad2a957" custom="structure {type:default;}">
+        <Coords points="803,359 803,373 1102,373 1102,357 1099,333 802,336 803,359"/>
+        <Baseline points="803,359 1102,357"/>
+        <TextEquiv conf="0.956799611102703">
+          <Unicode>انتظام ادارات که تمام این فقرات ادات اقتدار</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2ae8148d" custom="structure {type:default;}">
+        <Coords points="469,364 469,384 751,386 752,386 753,386 770,380 770,364 769,340 732,345 469,341 469,364"/>
+        <Baseline points="469,364 770,364"/>
+        <TextEquiv conf="0.9553263023495674">
+          <Unicode>خواهند نمود و مجلس علی هم ریاست جناب اجل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae4054ff" custom="structure {type:default;}">
+        <Coords points="134,363 134,381 441,378 441,363 441,337 401,336 400,336 398,336 397,336 396,337 385,343 300,343 287,339 277,336 276,336 250,336 249,336 248,336 247,336 247,337 244,339 241,343 203,343 198,340 194,336 193,336 192,336 191,336 134,340 134,363"/>
+        <Baseline points="134,363 441,363"/>
+        <TextEquiv conf="0.9299688766831937">
+          <Unicode>با انصافی سیرده در فکر دوعا گوئی ورعبتی وفقارت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a99fd6e" custom="structure {type:default;}">
+        <Coords points="802,395 802,409 1098,411 1100,393 1098,372 801,368 802,395"/>
+        <Baseline points="802,395 1100,393"/>
+        <TextEquiv conf="0.9668482095003128">
+          <Unicode>دولت علیه واحیا ملت قویمه اسلام است مقرر</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1d8fd3ba" custom="structure {type:default;}">
+        <Coords points="467,400 467,413 566,420 567,420 663,411 673,411 682,411 749,418 750,418 751,418 771,410 771,397 768,380 668,380 652,374 651,374 650,374 649,374 648,374 642,380 641,382 608,382 604,381 566,373 565,373 532,381 531,381 530,381 491,374 490,374 489,374 465,380 467,400"/>
+        <Baseline points="467,400 771,397"/>
+        <TextEquiv conf="0.9576429618729485">
+          <Unicode>سالار متصور در هفته سه روزدا نر است امیدولریم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_65ec1f16" custom="structure {type:default;}">
+        <Coords points="131,396 131,418 243,421 244,421 245,421 254,417 258,414 262,417 268,421 269,421 270,421 271,421 272,421 273,421 278,417 287,411 348,411 355,416 361,420 362,420 363,420 364,421 389,421 389,420 390,420 391,420 396,416 403,411 437,414 440,394 436,371 130,371 131,396"/>
+        <Baseline points="131,396 440,394"/>
+        <TextEquiv conf="0.9230718996789721">
+          <Unicode>خودمان باشیم الامان الامان الامان الفوث انموث</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_130ee69c" custom="structure {type:default;}">
+        <Coords points="801,430 801,444 1100,440 1101,426 1098,405 800,407 801,430"/>
+        <Baseline points="801,430 1101,426"/>
+        <TextEquiv conf="0.9634697970591093">
+          <Unicode>است وکلاء خود را مطابق شرایط مندرجه در</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_603ba11c" custom="structure {type:default;}">
+        <Coords points="472,433 473,453 487,448 516,452 531,454 532,454 563,451 594,448 602,450 614,454 615,454 616,454 617,454 625,450 631,447 667,449 744,453 745,453 747,453 769,446 769,431 765,406 743,413 699,413 691,407 690,406 689,406 688,406 687,406 686,406 685,406 683,407 674,412 667,408 661,405 660,405 659,405 618,409 570,414 541,414 537,410 534,407 532,407 531,407 530,407 529,407 528,407 523,411 518,413 507,411 485,407 484,407 483,407 471,411 472,433"/>
+        <Baseline points="472,433 769,431"/>
+        <TextEquiv conf="0.970666915178299">
+          <Unicode>که بدون ملاعظه بکایات امور مردم رسیدگی</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_07897394" custom="structure {type:default;}">
+        <Coords points="229,436 229,450 436,451 437,430 436,406 402,403 401,403 400,403 398,403 393,407 389,411 365,411 361,409 354,404 353,404 352,404 351,404 300,405 227,414 229,436"/>
+        <Baseline points="229,436 327,430 437,430"/>
+        <TextEquiv conf="0.9360014416954734">
+          <Unicode>الغوث جعلنا الله فداکم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fe4620d0" custom="structure {type:default;}">
+        <Coords points="802,465 802,478 850,484 851,484 852,484 854,484 860,478 863,477 1101,477 1102,460 1099,437 801,443 802,465"/>
+        <Baseline points="802,465 1102,460"/>
+        <TextEquiv conf="0.9224100956102697">
+          <Unicode>فصول نظامنامه معین وباعتبارتاهمه لازم پای</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_17950be7" custom="structure {type:default;}">
+        <Coords points="471,467 471,486 532,481 539,485 543,488 544,488 545,488 547,488 590,484 598,483 601,483 614,487 615,487 616,487 617,487 618,487 622,483 625,480 658,480 673,481 754,487 755,487 756,487 772,478 772,465 769,444 470,444 471,467"/>
+        <Baseline points="471,467 772,465"/>
+        <TextEquiv conf="0.9550639059808519">
+          <Unicode>نمایند و حضرت والاهم برای ۲۸ - یا ۲۹</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ecd9f855" custom="structure {type:default;}">
+        <Coords points="187,472 187,485 434,487 435,472 435,450 310,444 309,444 308,444 287,450 286,450 285,450 241,444 240,444 187,450 187,472"/>
+        <Baseline points="187,472 435,472"/>
+        <TextEquiv conf="0.9418414831161499">
+          <Unicode>بسم الله لرحمن الرحیم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2dea5389" custom="structure {type:default;}">
+        <Coords points="805,512 1102,507 1103,494 1099,470 1073,477 1035,477 1029,471 1029,470 1028,470 1027,470 1025,470 1019,471 984,477 975,471 972,470 971,470 970,470 969,470 968,470 964,472 949,479 916,479 910,472 909,472 909,471 908,471 907,471 868,471 867,471 865,471 864,471 864,472 862,473 857,478 842,473 834,471 833,471 832,471 831,471 825,473 817,477 805,474 805,497 805,512"/>
+        <Baseline points="805,497 1103,494"/>
+        <TextEquiv conf="0.9873002609785866">
+          <Unicode>تخت دولت کیل داشته بدون تراخی وفوت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf88213c" custom="structure {type:default;}">
+        <Coords points="470,502 470,520 769,519 769,502 769,483 470,480 470,502"/>
+        <Baseline points="470,502 769,502"/>
+        <TextEquiv conf="0.9508953329763914">
+          <Unicode>عزیمت حرکت طهران دارنا وباین واسطه اهل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d45f1972" custom="structure {type:default;}">
+        <Coords points="135,505 135,524 441,518 442,503 438,481 134,481 135,505"/>
+        <Baseline points="135,505 442,503"/>
+        <TextEquiv conf="0.9586021791144115">
+          <Unicode>ملی این عریضه است از علما و سادات و اعیان</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8912e308" custom="structure {type:default;}">
+        <Coords points="804,531 804,551 1103,545 1103,531 1103,512 996,504 995,504 942,508 920,511 907,508 885,504 884,504 883,504 874,507 868,511 860,507 850,504 849,504 848,504 804,506 804,531"/>
+        <Baseline points="804,531 1103,531"/>
+        <TextEquiv conf="0.9105394987596406">
+          <Unicode>وقت مشغول تکلیف لازیا خود شده وزودتر</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6350839b" custom="structure {type:default;}">
+        <Coords points="472,535 472,553 767,555 769,533 765,511 753,516 696,513 663,511 662,511 643,514 630,516 627,514 621,511 620,511 619,511 618,511 617,511 616,511 609,515 605,517 581,516 525,512 524,512 471,518 472,535"/>
+        <Baseline points="472,535 769,533"/>
+        <TextEquiv conf="0.9632802387563194">
+          <Unicode>کرمان حبلی مناسف هستند و تمامی عازم بودند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4a732d73" custom="structure {type:default;}">
+        <Coords points="166,538 166,557 443,556 443,538 442,514 166,514 166,538"/>
+        <Baseline points="166,538 443,538"/>
+        <TextEquiv conf="0.9777209435190474">
+          <Unicode>و اشراف ورطیای خلق کجور برسیل خلاصه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cada024d" custom="structure {type:default;}">
+        <Coords points="805,566 804,578 1101,584 1103,568 1101,540 805,542 805,566"/>
+        <Baseline points="805,566 1103,568"/>
+        <TextEquiv conf="0.9742003836129841">
+          <Unicode>این مملکت قدیم ودولت هشتهزارساله را از</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2d6f1dfd" custom="structure {type:default;}">
+        <Coords points="472,568 472,594 654,586 771,592 774,566 770,547 471,547 472,568"/>
+        <Baseline points="472,568 774,566"/>
+        <TextEquiv conf="0.9752923818521722">
+          <Unicode>که تلگراف نمایند خود ایشان مانع شدند واقعاً</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_229892fc" custom="structure {type:default;}">
+        <Coords points="136,573 136,592 430,592 430,591 431,591 444,584 444,569 442,548 236,547 235,547 135,554 136,573"/>
+        <Baseline points="136,573 444,569"/>
+        <TextEquiv conf="0.9741837590932846">
+          <Unicode>محل امهار جناب آقا محمد شیخ الاسلام جناب</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9b26af0b" custom="structure {type:default;}">
+        <Coords points="804,599 803,614 1101,614 1102,602 1101,581 1064,573 1063,573 1030,579 1023,580 1016,579 975,572 974,572 972,572 953,578 948,579 941,578 915,572 914,572 913,572 912,572 904,577 903,578 894,577 855,571 854,571 804,574 804,599"/>
+        <Baseline points="804,599 1102,602"/>
+        <TextEquiv conf="0.9572445083232153">
+          <Unicode>امواج فاتن و حملات محمن فارغ واز محاصره سؤ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3eeabb7e" custom="structure {type:default;}">
+        <Coords points="470,608 470,621 509,626 510,626 568,621 569,621 570,621 578,626 579,626 580,626 581,626 582,626 595,621 597,620 602,621 627,625 628,625 662,620 671,619 672,620 676,623 676,624 677,624 678,624 680,624 772,619 772,602 769,582 469,586 470,608"/>
+        <Baseline points="470,608 772,602"/>
+        <TextEquiv conf="0.9483852068583171">
+          <Unicode>درباره اهالی بنزله بد رههربان بودند عموم مردم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_227a9820" custom="structure {type:default;}">
+        <Coords points="137,613 137,629 187,623 437,623 440,607 436,585 136,586 137,613"/>
+        <Baseline points="137,613 440,607"/>
+        <TextEquiv conf="0.9512546985380111">
+          <Unicode>شیخ عبه الکریم جناب شریعماب شیخ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f225ebb1" custom="structure {type:default;}">
+        <Coords points="803,635 803,648 937,653 938,653 939,653 963,646 972,652 974,652 975,652 976,652 1071,647 1091,652 1092,652 1094,652 1095,652 1096,652 1104,645 1104,633 1100,607 1080,614 802,610 803,635"/>
+        <Baseline points="803,635 1104,633"/>
+        <TextEquiv conf="0.9606682136654854">
+          <Unicode>ثبات همایگان اجنی مستخلص سازند در امتقال</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a52111aa" custom="structure {type:default;}">
+        <Coords points="473,640 473,661 707,654 711,654 752,659 753,659 754,659 771,652 771,637 769,620 675,613 674,613 673,613 672,613 664,620 617,614 616,614 615,614 597,620 589,614 588,614 587,614 585,614 584,614 570,621 569,621 564,621 488,615 487,615 486,615 472,621 473,640"/>
+        <Baseline points="473,640 771,637"/>
+        <TextEquiv conf="0.942206647992134">
+          <Unicode>از علما و خوابین وطلاب وکسبه تلگراف تشکی</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0a414369" custom="structure {type:default;}">
+        <Coords points="140,646 140,664 216,663 217,663 218,663 228,658 444,658 444,638 442,619 404,612 403,612 402,612 401,612 390,620 389,620 376,615 375,615 374,615 345,621 344,621 331,614 330,614 329,614 328,614 327,614 320,622 289,622 271,615 270,615 269,615 205,624 184,618 183,618 182,618 139,626 140,646"/>
+        <Baseline points="140,646 444,638"/>
+        <TextEquiv conf="0.9343902330065883">
+          <Unicode>ازین العابدین جناب شریتمدار اقا سید ابراهیم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c90eaa0d" custom="structure {type:default;}">
+        <Coords points="805,667 804,686 1103,686 1104,671 1101,641 1090,647 1084,641 1083,641 1082,641 1081,641 1075,641 1029,647 988,642 967,640 966,640 805,644 805,667"/>
+        <Baseline points="805,667 1104,671"/>
+        <TextEquiv conf="0.9418755188584328">
+          <Unicode>این امرمقدس هره ولایات ایران وکلا خود را</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0da0598e" custom="structure {type:default;}">
+        <Coords points="475,676 477,696 483,692 770,693 772,673 770,653 580,649 579,649 578,649 577,649 569,654 501,650 500,650 474,655 475,676"/>
+        <Baseline points="475,676 772,673"/>
+        <TextEquiv conf="0.9196043252944947">
+          <Unicode>از مغرضین که باعث تاخبر انخب هسنند بمجلس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_76a42807" custom="structure {type:default;}">
+        <Coords points="138,676 139,698 164,691 208,695 219,696 220,696 231,695 261,690 290,693 312,695 313,695 314,695 315,695 318,692 323,690 350,691 409,694 410,694 443,688 444,673 443,655 419,649 418,649 417,649 384,654 352,649 351,649 350,649 337,655 332,651 332,650 331,650 330,650 329,650 275,655 238,650 237,650 236,650 217,658 168,658 163,652 163,651 162,651 161,651 160,651 158,651 137,658 138,676"/>
+        <Baseline points="138,676 444,673"/>
+        <TextEquiv conf="0.9625210926720971">
+          <Unicode>جناب شر بعتمدار آقا شیخ فضلالله - جناب</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_497d512d" custom="structure {type:default;}">
+        <Coords points="805,705 805,721 1102,718 1102,702 1100,681 1071,675 1070,675 1069,675 1057,680 804,680 805,705"/>
+        <Baseline points="805,705 1102,702"/>
+        <TextEquiv conf="0.9282954472761887">
+          <Unicode>نعین نموده واعزام داشته اند مگربهای تخت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_119d5047" custom="structure {type:default;}">
+        <Coords points="474,705 473,722 770,727 772,708 771,690 474,687 474,705"/>
+        <Baseline points="474,705 772,708"/>
+        <TextEquiv conf="0.9523709369333166">
+          <Unicode>شترم علی عرض کرده وخواهند کرد و چنانچه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dbb5a7c0" custom="structure {type:default;}">
+        <Coords points="139,711 139,726 174,731 175,731 201,726 204,726 208,726 249,730 250,730 445,723 445,705 442,683 138,690 139,711"/>
+        <Baseline points="139,711 445,705"/>
+        <TextEquiv conf="0.9260701082254711">
+          <Unicode>شریتمه ازاقه شیخ ایوالفاسم امهار اعیان</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4ef251d3" custom="structure {type:default;}">
+        <Coords points="806,741 806,759 901,752 909,756 911,758 912,758 913,758 914,758 915,758 922,756 934,752 988,754 1081,757 1082,757 1083,757 1100,749 1100,738 1098,715 805,715 806,741"/>
+        <Baseline points="806,741 1100,738"/>
+        <TextEquiv conf="0.956162603199482">
+          <Unicode>قدیم ایران بعنی قزوین که همیشه مرگرعام و</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9626d168" custom="structure {type:default;}">
+        <Coords points="473,741 472,762 595,759 598,762 601,763 601,765 602,765 603,765 604,765 643,761 661,760 671,761 704,766 705,766 707,766 725,760 727,760 728,760 749,766 750,766 751,766 752,766 772,759 774,743 771,719 473,720 473,741"/>
+        <Baseline points="473,741 774,743"/>
+        <TextEquiv conf="0.9623717394742098">
+          <Unicode>مردمان خود غرض ناخ وماسوخ را کنار</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a33d156e" custom="structure {type:default;}">
+        <Coords points="140,745 140,765 301,767 302,767 303,767 304,767 304,766 305,766 310,760 349,760 356,766 357,766 358,766 360,766 362,766 396,760 405,766 406,766 407,766 408,766 409,766 422,760 443,766 446,742 445,722 428,716 427,716 425,716 338,722 244,717 243,717 139,725 140,745"/>
+        <Baseline points="140,745 446,742"/>
+        <TextEquiv conf="0.9230771132490851">
+          <Unicode>و ما لکین و غیره هفتا دو شش نفر که اسای آنها</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fcb85f5c" custom="structure {type:default;}">
+        <Coords points="804,773 804,785 863,792 864,792 865,792 883,786 885,786 909,787 1003,790 1004,790 1005,790 1015,788 1030,784 1104,788 1105,770 1100,744 1088,752 803,752 804,773"/>
+        <Baseline points="804,773 1105,770"/>
+        <TextEquiv conf="0.9678290320767297">
+          <Unicode>منبع غیرت ومهند مردان هنرور بوده است</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e99e2690" custom="structure {type:default;}">
+        <Coords points="472,776 472,798 656,795 658,796 663,800 664,800 665,800 667,801 736,801 736,800 776,794 776,776 774,752 753,759 673,759 665,754 662,752 661,752 660,752 659,752 632,755 607,758 604,756 602,754 602,753 601,753 600,753 488,752 487,752 486,752 472,758 472,776"/>
+        <Baseline points="472,776 776,776"/>
+        <TextEquiv conf="0.9692206352949142">
+          <Unicode>یگذارند ربیب امر بطور خوبی میگذرد بیزیکه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b5b56d0" custom="structure {type:default;}">
+        <Coords points="139,785 139,797 328,800 329,800 445,788 445,776 443,757 367,753 366,753 365,753 344,759 343,759 328,754 327,754 326,754 325,754 324,754 314,760 313,761 243,762 242,762 231,757 230,757 229,757 228,757 227,757 227,758 221,762 197,758 196,758 138,765 139,785"/>
+        <Baseline points="139,785 445,776"/>
+        <TextEquiv conf="0.7577211340268453">
+          <Unicode>موجب تطویل است </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ceeb41e9" custom="structure {type:default;}">
+        <Coords points="806,808 806,822 1105,822 1107,803 1104,783 1042,776 1041,776 1040,776 1024,783 1022,783 880,779 878,779 877,779 861,785 860,785 821,780 820,780 819,780 805,785 806,808"/>
+        <Baseline points="806,808 1107,803"/>
+        <TextEquiv conf="0.9456975096609535">
+          <Unicode>نمیدانم چه آتفق افتاده که هنوز سر از خواب</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2fac37e8" custom="structure {type:default;}">
+        <Coords points="473,813 473,826 672,836 673,836 674,836 700,827 740,832 741,832 742,832 743,832 751,825 775,825 775,810 771,785 670,793 662,788 659,786 658,786 657,786 656,786 612,790 585,793 571,792 516,787 515,787 514,787 513,787 507,793 501,788 500,788 499,788 498,788 497,788 472,795 473,813"/>
+        <Baseline points="473,813 775,810"/>
+        <TextEquiv conf="0.9238034533826929">
+          <Unicode>اسباب معطلی و صرکردانی است همان ناسخ و</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_22b44730" custom="structure {type:default;}">
+        <Coords points="145,816 148,836 157,829 167,835 168,835 169,835 174,835 204,828 224,832 247,836 248,836 342,834 343,834 377,824 377,812 374,789 259,796 246,795 218,790 217,790 216,790 202,796 200,797 195,797 166,792 165,792 164,792 144,798 145,816"/>
+        <Baseline points="145,816 377,812"/>
+        <TextEquiv conf="0.9530424833297729">
+          <Unicode>مکتوب شهری</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6a38bf7b" custom="structure {type:default;}">
+        <Coords points="802,841 802,853 852,860 854,860 855,860 874,854 875,854 1105,855 1107,839 1103,811 801,813 802,841"/>
+        <Baseline points="802,841 1107,839"/>
+        <TextEquiv conf="0.9465015613755514">
+          <Unicode>غفات رنمیدارند این ندای عدالت که بشدبور عدل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8c251484" custom="structure {type:default;}">
+        <Coords points="672,847 672,870 723,870 772,859 774,844 772,829 751,821 750,821 749,821 714,822 713,822 712,822 712,823 708,827 704,829 671,826 672,847"/>
+        <Baseline points="672,847 774,844"/>
+        <TextEquiv conf="0.8830147385597229">
+          <Unicode>منسوخ است</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5d699431" custom="structure {type:default;}">
+        <Coords points="478,844 477,865 520,861 553,866 572,868 574,868 575,868 580,865 600,855 637,855 648,865 650,866 650,867 651,867 652,867 654,867 655,867 664,864 665,847 663,826 579,830 570,824 568,822 567,822 566,822 565,822 564,822 556,824 535,829 522,823 518,822 517,822 516,822 478,822 478,844"/>
+        <Baseline points="478,844 665,847"/>
+        <TextEquiv conf="0.991793692111969">
+          <Unicode>شمس الحکما</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d1ed5365" custom="structure {type:default;}">
+        <Coords points="143,851 143,868 344,867 345,867 365,861 434,865 435,865 436,865 437,865 445,859 445,843 443,826 416,820 415,820 414,820 402,826 398,827 393,826 372,821 371,821 370,821 369,821 360,826 354,828 142,827 143,851"/>
+        <Baseline points="143,851 445,843"/>
+        <TextEquiv conf="0.9224672530378614">
+          <Unicode>حضور میارک مدیر روزنامه مجلس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_18a94be3" custom="structure {type:default;}">
+        <Coords points="803,876 803,894 1101,894 1101,876 1101,855 803,848 803,876"/>
+        <Baseline points="803,876 1101,876"/>
+        <TextEquiv conf="0.9578626139743908">
+          <Unicode>پدر تا جدار کل ممالک ایران باقصا نفاط</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_56d73602" custom="structure {type:default;}">
+        <Coords points="596,880 595,895 603,901 604,901 605,901 606,901 607,901 619,896 623,895 651,901 654,881 654,859 642,852 641,852 640,852 596,856 596,880"/>
+        <Baseline points="596,880 654,881"/>
+        <TextEquiv conf="0.9931404739618301">
+          <Unicode>تظلم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_94a7bdfc" custom="structure {type:default;}">
+        <Coords points="139,882 139,897 405,900 406,900 450,893 450,880 448,863 138,862 139,882"/>
+        <Baseline points="139,882 450,880"/>
+        <TextEquiv conf="0.8896436435835702">
+          <Unicode>دارالشورای ملیدر شماره هفد هم جریده</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c95e288" custom="structure {type:default;}">
+        <Coords points="803,911 803,926 1094,926 1094,924 1095,924 1105,918 1105,908 1103,888 1031,881 1030,881 1029,881 1007,887 1002,888 994,887 966,882 965,882 930,887 918,888 915,887 904,882 903,882 902,882 901,882 900,882 900,883 897,887 894,889 802,887 803,911"/>
+        <Baseline points="803,911 1105,908"/>
+        <TextEquiv conf="0.9385744800438752">
+          <Unicode>فرنک صماخها دریده است چه شده که اهالی</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_26ac9057" custom="structure {type:default;}">
+        <Coords points="468,911 467,932 515,929 527,934 528,934 529,934 530,935 780,935 781,914 781,896 745,889 744,889 743,889 726,895 725,895 724,895 707,889 705,889 704,889 703,889 688,894 686,895 677,894 625,888 624,888 623,888 609,893 607,894 605,893 589,888 588,888 587,888 585,888 570,893 567,894 564,893 552,888 551,888 550,888 549,888 535,892 528,895 499,895 496,892 491,888 490,888 489,888 488,888 468,891 468,911"/>
+        <Baseline points="468,911 781,914"/>
+        <TextEquiv conf="0.9616043743762103">
+          <Unicode>بتوسط حضرات حجج اسلامیه آقای آقا سید عبدالله</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0453a1f1" custom="structure {type:default;}">
+        <Coords points="135,920 135,934 447,932 447,913 444,889 134,897 135,920"/>
+        <Baseline points="135,920 447,913"/>
+        <TextEquiv conf="0.9287704966962338">
+          <Unicode>قریده مجلس مذاکرات وکلای محترم داراشورای</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc858a21" custom="structure {type:default;}">
+        <Coords points="805,948 805,961 1107,958 1107,943 1104,920 804,918 805,948"/>
+        <Baseline points="805,948 1107,943"/>
+        <TextEquiv conf="0.9646501995268322">
+          <Unicode>دار اسلطنه مزبوره باین قرب جوارینبه از کوش</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_28d0a2ae" custom="structure {type:default;}">
+        <Coords points="469,946 468,964 523,961 547,964 565,968 566,968 567,968 576,964 583,961 590,964 597,968 598,968 600,968 601,968 615,963 624,961 632,963 647,968 648,968 649,968 691,962 696,962 697,962 705,969 707,969 708,969 709,970 766,970 766,969 767,969 768,969 779,961 780,948 780,929 761,923 760,923 758,923 757,923 744,929 739,930 734,929 717,923 716,923 715,923 694,929 685,930 675,929 648,923 647,923 646,923 645,923 640,929 637,930 566,930 564,929 555,922 554,922 553,922 507,922 505,922 469,928 469,946"/>
+        <Baseline points="469,946 780,948"/>
+        <TextEquiv conf="0.9488350179460313">
+          <Unicode>و آقای آقا سید محمد رآقای حاجی شیخ فضلالله مد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cbcc1023" custom="structure {type:default;}">
+        <Coords points="136,955 136,972 447,966 447,948 445,929 342,924 341,924 340,924 339,924 331,930 330,930 329,930 238,927 237,927 135,933 136,955"/>
+        <Baseline points="136,955 447,948"/>
+        <TextEquiv conf="0.9569508062468635">
+          <Unicode>ملی را در باره اصلاح عمل قصابخانه زیارت نمودم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea1b00f2" custom="structure {type:default;}">
+        <Coords points="804,980 804,990 1103,991 1105,977 1103,955 803,954 804,980"/>
+        <Baseline points="804,980 1105,977"/>
+        <TextEquiv conf="0.9765806119692954">
+          <Unicode>برنداشته اند واوبلا خواب اصحاب گهف جرت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a46b3bde" custom="structure {type:default;}">
+        <Coords points="469,982 469,999 498,995 502,999 503,999 503,1000 504,1000 505,1000 507,1000 526,999 544,997 552,998 572,1002 574,1002 596,997 606,995 608,997 614,1001 614,1002 615,1002 616,1002 617,1003 643,1003 643,1002 644,1002 657,996 660,995 661,996 664,999 664,1000 665,1000 667,1000 752,1002 753,1002 754,1002 781,994 781,982 781,966 738,958 737,958 736,958 721,963 717,966 663,966 659,962 649,958 648,958 647,958 646,958 645,958 641,962 636,966 600,966 596,961 593,959 593,958 592,958 591,958 590,958 577,961 560,964 469,959 469,982"/>
+        <Baseline points="469,982 781,982"/>
+        <TextEquiv conf="0.9241228127479553">
+          <Unicode>ظلهم العالی تشکی و تظام می نماند عموم علما و سادات</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4cd0b9d5" custom="structure {type:default;}">
+        <Coords points="136,985 136,1005 366,999 447,1003 449,982 447,963 343,958 342,958 341,958 340,958 334,964 332,964 331,964 299,959 298,959 261,964 245,959 244,959 243,959 242,959 241,959 232,966 196,961 195,961 135,967 136,985"/>
+        <Baseline points="136,985 449,982"/>
+        <TextEquiv conf="0.940964678500561">
+          <Unicode>واگنزیت ارا این عمل را راجع بحکومت جلیبله نموده</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_03eddc33" custom="structure {type:default;}">
+        <Coords points="806,1013 806,1027 1105,1023 1107,1011 1104,989 1014,983 1012,983 985,988 968,983 967,983 966,983 965,983 950,989 843,984 842,984 805,990 806,1013"/>
+        <Baseline points="806,1013 1107,1011"/>
+        <TextEquiv conf="0.9584192429718218">
+          <Unicode>ایشان است )اموات عند غفلتهم یعمهون) با</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_71dfedfe" custom="structure {type:default;}">
+        <Coords points="462,1016 462,1038 777,1034 778,1015 775,991 461,997 462,1016"/>
+        <Baseline points="462,1016 778,1015"/>
+        <TextEquiv conf="0.9543121069669723">
+          <Unicode>واشراف ورعایا از حکمران محال ثلنه کجور و</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f31d185b" custom="structure {type:default;}">
+        <Coords points="137,1024 139,1043 144,1039 207,1042 215,1042 216,1042 217,1042 218,1042 228,1037 294,1040 295,1040 296,1040 297,1040 317,1035 451,1037 454,1016 450,990 271,999 245,998 183,996 182,996 136,1002 137,1024"/>
+        <Baseline points="137,1024 454,1016"/>
+        <TextEquiv conf="0.9475333599940591">
+          <Unicode>بود البته پندکان عالی بهتر مسبوق هستید که مردم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b2106aa3" custom="structure {type:default;}">
+        <Coords points="800,1049 800,1058 1105,1057 1107,1044 1103,1020 798,1023 800,1049"/>
+        <Baseline points="800,1049 1107,1044"/>
+        <TextEquiv conf="0.9643535730315418">
+          <Unicode>انلکه این ولایت تاریخی را میتوان چهار سوق</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_45ac11fd" custom="structure {type:default;}">
+        <Coords points="142,1060 142,1075 784,1067 784,1049 781,1027 141,1034 142,1060"/>
+        <Baseline points="142,1060 784,1049"/>
+        <TextEquiv conf="0.9614871186368605">
+          <Unicode>کلارستاق و تنکاین باصول امر و منتخبین مجلس ایران هنوز مقام و تکالیف مجلس شورای ملی را</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_108a7279" custom="structure {type:default;}">
+        <Coords points="805,1081 805,1093 875,1098 876,1098 877,1098 892,1093 894,1093 900,1098 901,1098 902,1098 903,1098 927,1093 934,1092 939,1093 954,1097 955,1097 956,1097 1108,1092 1108,1078 1105,1056 1006,1050 1005,1050 1004,1050 992,1056 990,1057 948,1057 947,1056 941,1051 940,1051 939,1051 938,1051 804,1055 805,1081"/>
+        <Baseline points="805,1081 1108,1078"/>
+        <TextEquiv conf="0.9559318486012911">
+          <Unicode>فرنک نامید بواسطه کثرت عبور ومرور مظون</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8164904c" custom="structure {type:default;}">
+        <Coords points="475,1082 474,1100 771,1102 774,1084 771,1062 475,1063 475,1082"/>
+        <Baseline points="475,1082 774,1084"/>
+        <TextEquiv conf="0.9585848607515034">
+          <Unicode>مقدس شورای ملی که حکمران محال ثلته حال</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b18ab3fd" custom="structure {type:default;}">
+        <Coords points="136,1089 136,1105 182,1111 183,1111 184,1111 197,1105 198,1105 201,1105 223,1110 224,1110 270,1105 283,1104 449,1104 450,1083 448,1065 135,1065 136,1089"/>
+        <Baseline points="136,1089 450,1083"/>
+        <TextEquiv conf="0.9315135656368165">
+          <Unicode>نمید انند خصوصاً اهل سوقه همچو کمان میکنند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3d9f22c4" custom="structure {type:default;}">
+        <Coords points="807,1116 807,1135 837,1129 869,1134 880,1135 881,1135 882,1135 883,1135 884,1133 889,1129 901,1133 909,1135 910,1135 911,1135 912,1135 921,1132 934,1129 943,1132 952,1134 953,1134 954,1134 955,1134 963,1131 969,1129 970,1131 975,1134 975,1135 976,1135 977,1135 978,1135 979,1135 995,1130 1001,1129 1003,1130 1011,1135 1012,1135 1014,1135 1015,1135 1061,1129 1068,1134 1068,1135 1069,1135 1070,1135 1071,1135 1072,1135 1073,1135 1081,1130 1094,1135 1095,1135 1096,1135 1097,1135 1098,1135 1104,1129 1104,1116 1104,1090 807,1087 807,1116"/>
+        <Baseline points="807,1116 1104,1116"/>
+        <TextEquiv conf="0.9288364481925965">
+          <Unicode>این بود که انجا زودتر از همه جا بیدار وبافاً ماباغ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c067982d" custom="structure {type:default;}">
+        <Coords points="476,1118 476,1142 776,1136 776,1118 775,1095 476,1097 476,1118"/>
+        <Baseline points="476,1118 776,1118"/>
+        <TextEquiv conf="0.9649167689117225">
+          <Unicode>هفت طیقه است که حکومت واقتدار در محال</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c32911d" custom="structure {type:default;}">
+        <Coords points="137,1123 137,1138 223,1144 224,1144 225,1144 244,1138 429,1142 430,1142 431,1142 450,1135 450,1120 447,1097 136,1100 137,1123"/>
+        <Baseline points="137,1123 450,1120"/>
+        <TextEquiv conf="0.9374435390744891">
+          <Unicode>که امورات از جزی وکلی اصلاحش برذمهٔ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f01a3413" custom="structure {type:default;}">
+        <Coords points="814,1149 814,1159 925,1164 926,1164 927,1164 950,1159 1062,1163 1063,1163 1099,1157 1100,1147 1099,1128 1081,1121 1080,1121 1078,1121 1077,1121 1076,1121 1076,1122 1071,1127 1031,1121 1030,1121 977,1127 931,1121 930,1121 929,1121 910,1128 833,1121 832,1121 831,1121 812,1129 814,1149"/>
+        <Baseline points="814,1149 1100,1147"/>
+        <TextEquiv conf="0.9650001002080513">
+          <Unicode>ملتفت کار باشند اکنون معلوم میشرد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3f92fe5e" custom="structure {type:default;}">
+        <Coords points="476,1154 477,1178 495,1171 542,1175 543,1175 579,1170 587,1176 588,1176 589,1176 590,1176 591,1176 592,1176 609,1171 636,1175 645,1176 646,1176 775,1172 775,1149 771,1131 609,1135 601,1134 569,1130 568,1130 567,1130 549,1135 544,1136 536,1136 489,1131 488,1131 487,1131 475,1135 476,1154"/>
+        <Baseline points="476,1154 775,1149"/>
+        <TextEquiv conf="0.9244989825458061">
+          <Unicode>ثلته دارند مل ومال معموم را گرفته سهل است</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a39eb658" custom="structure {type:default;}">
+        <Coords points="138,1160 138,1174 188,1179 189,1179 190,1179 201,1174 202,1174 204,1174 233,1178 234,1178 448,1172 448,1154 445,1130 393,1135 344,1133 291,1131 290,1131 289,1131 277,1135 273,1137 267,1136 248,1132 247,1132 246,1132 245,1132 238,1137 235,1138 222,1137 176,1134 175,1134 174,1134 172,1134 172,1135 167,1139 145,1134 144,1134 143,1134 142,1134 141,1134 137,1137 138,1160"/>
+        <Baseline points="138,1160 448,1154"/>
+        <TextEquiv conf="0.9464106889147508">
+          <Unicode>مجلس است حتی مطلبات پنجقرانی واز انطرف</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_965a4ba6" custom="structure {type:default;}">
+        <Coords points="807,1185 807,1197 901,1201 902,1201 944,1195 953,1194 954,1195 960,1199 960,1200 961,1200 962,1200 963,1201 985,1201 985,1200 1020,1194 1028,1192 1102,1192 1103,1182 1101,1160 1051,1150 1050,1150 1049,1150 1048,1150 1036,1158 1034,1159 1031,1158 1014,1151 1012,1151 1011,1151 1010,1151 998,1157 996,1158 994,1157 985,1150 984,1150 983,1150 950,1150 949,1150 928,1155 902,1161 806,1152 807,1185"/>
+        <Baseline points="807,1185 1103,1182"/>
+        <TextEquiv conf="0.9368504302369224">
+          <Unicode>نداشته ما غامد بود از روی واقعم تطبل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0eb777a7" custom="structure {type:default;}">
+        <Coords points="486,1186 485,1206 526,1203 576,1208 607,1210 608,1210 609,1210 610,1210 614,1208 617,1204 621,1208 629,1211 630,1211 631,1212 674,1212 674,1211 675,1211 692,1206 698,1205 703,1206 730,1212 731,1212 771,1205 772,1190 771,1168 486,1168 486,1186"/>
+        <Baseline points="486,1186 772,1190"/>
+        <TextEquiv conf="0.9446158296353108">
+          <Unicode>عموم مردم اختیار عرض خودشان را ندارند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bfd07b24" custom="structure {type:default;}">
+        <Coords points="137,1199 137,1215 167,1210 196,1214 201,1214 202,1214 203,1214 205,1213 218,1208 245,1212 251,1212 252,1212 254,1212 256,1211 270,1205 281,1210 284,1211 285,1211 286,1211 287,1211 292,1210 309,1204 316,1208 318,1209 320,1209 321,1209 322,1209 324,1208 332,1203 357,1206 372,1208 374,1208 452,1201 452,1186 449,1164 211,1169 136,1177 137,1199"/>
+        <Baseline points="137,1199 452,1186"/>
+        <TextEquiv conf="0.9480110164298567">
+          <Unicode>صدمات فوق العاده که از بابت نان و گوشت مردم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba3bb133" custom="structure {type:default;}">
+        <Coords points="803,1217 802,1227 837,1233 838,1233 862,1229 868,1228 871,1229 884,1233 885,1233 886,1235 1102,1235 1103,1219 1102,1195 1044,1198 1040,1195 1034,1190 1034,1189 1033,1189 1032,1189 990,1189 989,1189 988,1189 975,1195 969,1198 965,1195 955,1188 954,1188 953,1188 952,1188 895,1196 891,1196 889,1196 865,1188 864,1188 863,1188 803,1196 803,1217"/>
+        <Baseline points="803,1217 1103,1219"/>
+        <TextEquiv conf="0.9371023137461055">
+          <Unicode>این مشروع مقدس را از چشم بزوگان انحاباید دید</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea8895bb" custom="structure {type:default;}">
+        <Coords points="477,1223 477,1243 563,1238 632,1244 636,1244 637,1244 638,1244 640,1244 648,1238 678,1238 774,1244 775,1223 775,1205 704,1199 703,1199 659,1203 649,1204 643,1203 620,1199 619,1199 618,1199 608,1203 605,1204 477,1202 477,1223"/>
+        <Baseline points="477,1223 775,1223"/>
+        <TextEquiv conf="0.9683927137677263">
+          <Unicode>هرجه میل خود شااست عمل میمایند ابدا فریاد</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7246d454" custom="structure {type:default;}">
+        <Coords points="139,1229 139,1243 262,1248 263,1248 451,1238 451,1224 449,1199 265,1199 264,1199 263,1199 252,1204 250,1204 246,1204 212,1200 211,1200 210,1200 200,1205 198,1205 196,1205 166,1201 165,1201 138,1206 139,1229"/>
+        <Baseline points="139,1229 451,1224"/>
+        <TextEquiv conf="0.9199814537297124">
+          <Unicode>این شهر تا کنون دیدمه اند لهذا مستله نان وگوشت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3055a858" custom="structure {type:default;}">
+        <Coords points="806,1256 808,1276 819,1267 843,1273 846,1275 847,1275 848,1275 855,1273 892,1265 918,1271 921,1271 922,1271 923,1271 928,1271 976,1263 989,1268 993,1270 994,1270 995,1270 996,1270 1005,1268 1025,1262 1037,1266 1038,1266 1040,1266 1041,1266 1062,1261 1070,1266 1073,1268 1074,1268 1075,1268 1076,1268 1103,1264 1104,1249 1103,1233 1074,1226 1073,1226 1072,1226 1071,1226 1070,1226 1059,1233 1058,1235 991,1235 977,1228 976,1228 975,1228 974,1228 972,1228 964,1235 963,1236 954,1236 898,1230 897,1230 896,1230 895,1230 887,1236 885,1238 874,1237 847,1232 846,1232 805,1237 806,1256"/>
+        <Baseline points="806,1256 1104,1249"/>
+        <TextEquiv conf="0.9498916593464938">
+          <Unicode>چانیکه مثل حجج الاسلام اقای حاجی سید ابراهیم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6c3b0873" custom="structure {type:default;}">
+        <Coords points="477,1255 476,1275 775,1272 776,1257 776,1239 682,1231 681,1231 646,1237 635,1238 619,1236 572,1230 571,1230 542,1235 529,1237 477,1235 477,1255"/>
+        <Baseline points="477,1255 776,1257"/>
+        <TextEquiv conf="0.9501121186074757">
+          <Unicode>رسی نیست که آنها را منع وردع نماید من جمله</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ba70d1f8" custom="structure {type:default;}">
+        <Coords points="138,1265 138,1278 180,1284 181,1284 182,1284 183,1284 191,1278 297,1281 298,1281 299,1281 313,1276 315,1275 321,1276 350,1280 351,1280 352,1280 353,1280 358,1275 361,1273 364,1275 384,1279 385,1279 448,1272 448,1257 444,1230 423,1238 381,1233 371,1232 370,1232 362,1233 335,1240 322,1236 314,1233 313,1233 312,1233 311,1233 304,1237 295,1241 285,1238 275,1235 274,1235 273,1235 272,1235 271,1235 264,1239 259,1242 245,1240 224,1236 223,1236 222,1236 221,1236 221,1237 216,1241 214,1243 204,1241 180,1238 179,1238 178,1238 177,1238 170,1243 168,1245 137,1245 138,1265"/>
+        <Baseline points="138,1265 448,1257"/>
+        <TextEquiv conf="0.9521004259586334">
+          <Unicode>همیت فوف اماده پیدا کرده است و همیشه جعی در</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f30b8946" custom="structure {type:default;}">
+        <Coords points="809,1288 809,1298 856,1298 868,1306 869,1306 870,1306 871,1306 872,1306 873,1306 886,1297 976,1305 977,1305 1004,1299 1029,1304 1030,1304 1031,1304 1047,1295 1054,1302 1054,1303 1055,1303 1056,1303 1057,1303 1092,1300 1094,1300 1105,1294 1105,1284 1103,1264 960,1259 958,1259 957,1259 956,1259 956,1261 950,1267 948,1268 937,1267 900,1263 899,1263 852,1269 847,1269 845,1269 818,1261 817,1261 816,1261 815,1261 814,1261 814,1262 808,1266 809,1288"/>
+        <Baseline points="809,1288 1105,1284"/>
+        <TextEquiv conf="0.9409416525862938">
+          <Unicode>وملاعلی اکبر واقا شیخ عیسی وامنانهم در انجا</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_25f67024" custom="structure {type:default;}">
+        <Coords points="480,1289 480,1306 776,1306 776,1289 774,1266 761,1271 741,1266 740,1266 739,1266 738,1266 735,1266 711,1271 691,1267 688,1266 687,1266 686,1266 685,1266 683,1267 671,1271 644,1267 635,1266 634,1266 633,1266 632,1266 631,1267 622,1271 480,1269 480,1289"/>
+        <Baseline points="480,1289 776,1289"/>
+        <TextEquiv conf="0.9618509518794525">
+          <Unicode>میرزا ممود خان نایب الحکومه چند سال است</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f9b857fa" custom="structure {type:default;}">
+        <Coords points="131,1282 132,1297 132,1318 269,1317 270,1317 271,1317 271,1316 272,1316 273,1313 275,1311 291,1312 329,1317 330,1317 331,1317 332,1317 332,1316 334,1316 337,1311 338,1309 345,1310 370,1316 371,1316 450,1306 451,1289 449,1272 211,1272 210,1272 131,1280 131,1282"/>
+        <Baseline points="132,1297 451,1289"/>
+        <TextEquiv conf="0.9262525452808901">
+          <Unicode>صدد اصلاح برامده ونظر بمابیکه در باطن امراست</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4211005f" custom="structure {type:default;}">
+        <Coords points="809,1323 809,1336 953,1338 954,1338 955,1338 978,1332 979,1332 1004,1337 1005,1337 1006,1337 1007,1337 1015,1331 1016,1331 1018,1331 1075,1335 1076,1335 1077,1335 1105,1328 1105,1317 1103,1297 1060,1291 1059,1291 1058,1291 1057,1291 1057,1292 1050,1298 1048,1300 1027,1300 1024,1298 1007,1292 1006,1292 1005,1292 1004,1292 1003,1292 992,1299 966,1300 930,1302 929,1302 923,1295 923,1294 922,1294 921,1294 920,1294 918,1294 895,1299 858,1295 857,1295 856,1295 855,1295 843,1304 842,1305 808,1305 809,1323"/>
+        <Baseline points="809,1323 1105,1317"/>
+        <TextEquiv conf="0.9204638626840379">
+          <Unicode>اقامت دارند معلوم است این غفلت باسیار ناممدوح</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5fce2bbc" custom="structure {type:default;}">
+        <Coords points="478,1324 478,1339 494,1346 495,1346 496,1346 497,1346 514,1340 562,1346 563,1346 776,1343 776,1324 776,1306 478,1300 478,1324"/>
+        <Baseline points="478,1324 776,1324"/>
+        <TextEquiv conf="0.9505155481398105">
+          <Unicode>تیابت دارد وکار گذار ایشان است بعلاده از</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e67ff9f0" custom="structure {type:default;}">
+        <Coords points="138,1335 138,1351 451,1337 451,1324 448,1306 137,1316 138,1335"/>
+        <Baseline points="138,1335 451,1324"/>
+        <TextEquiv conf="0.9536417637552533">
+          <Unicode>نتوالسته اصلاح نمایند و حضرات باشرین هم هر</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2f70880d" custom="structure {type:default;}">
+        <Coords points="808,1355 808,1374 834,1369 874,1374 882,1374 883,1374 899,1373 971,1367 1107,1370 1108,1352 1107,1334 1089,1328 1088,1328 1087,1328 1058,1333 1056,1333 1046,1326 1045,1326 1044,1326 974,1326 972,1326 971,1326 958,1331 949,1334 807,1329 808,1355"/>
+        <Baseline points="808,1355 1108,1352"/>
+        <TextEquiv conf="0.9532484324966989">
+          <Unicode>خواهد بود چیزی که باظر میاید وکویا واقعاً</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f1c1b064" custom="structure {type:default;}">
+        <Coords points="477,1360 478,1383 492,1376 649,1380 650,1380 680,1374 694,1379 695,1379 696,1380 777,1380 777,1357 774,1334 476,1336 477,1360"/>
+        <Baseline points="477,1360 777,1357"/>
+        <TextEquiv conf="0.9007975057114003">
+          <Unicode>تبدیات مالی وجانی چند زنی شوهر داروزنی کهدر</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf6e3fde" custom="structure {type:default;}">
+        <Coords points="138,1364 138,1384 450,1377 450,1361 447,1336 337,1343 329,1339 323,1336 322,1336 321,1336 292,1340 283,1342 276,1340 241,1336 240,1336 238,1336 225,1343 222,1345 137,1345 138,1364"/>
+        <Baseline points="138,1364 450,1361"/>
+        <TextEquiv conf="0.9133845150470734">
+          <Unicode>فرار دادی که میخواهند بگذارند برای قایده</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c4caf5ee" custom="structure {type:default;}">
+        <Coords points="807,1393 807,1410 1030,1400 1104,1404 1107,1386 1104,1364 1065,1359 1064,1359 1019,1366 1016,1366 1012,1366 982,1361 981,1361 980,1361 979,1361 979,1362 972,1367 972,1369 971,1367 961,1362 960,1362 958,1362 957,1362 936,1369 935,1369 934,1369 899,1363 898,1363 897,1363 885,1370 877,1364 876,1364 875,1364 874,1364 873,1364 872,1364 872,1365 865,1371 863,1371 823,1366 822,1366 821,1366 806,1371 807,1393"/>
+        <Baseline points="807,1393 1107,1386"/>
+        <TextEquiv conf="0.9787701823209461">
+          <Unicode>همینطور بشد این است شخصی که در خور این</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac6cb9c5" custom="structure {type:default;}">
+        <Coords points="478,1390 477,1405 517,1413 518,1413 568,1407 617,1413 618,1413 619,1413 620,1413 630,1406 682,1413 683,1413 714,1406 728,1414 729,1414 730,1414 775,1405 776,1392 775,1376 698,1376 698,1375 692,1371 692,1370 691,1370 690,1370 689,1370 629,1374 623,1370 623,1369 622,1369 621,1369 620,1369 478,1373 478,1390"/>
+        <Baseline points="478,1390 776,1392"/>
+        <TextEquiv conf="0.9675722076342657">
+          <Unicode>عده بوده بانها خلاف شرع آنور واقع ساخته</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8909bc6f" custom="structure {type:default;}">
+        <Coords points="139,1401 139,1415 170,1422 171,1422 234,1419 235,1419 236,1419 236,1418 241,1415 242,1414 245,1415 268,1419 269,1419 270,1419 271,1419 276,1415 278,1413 448,1413 449,1393 447,1376 360,1371 358,1371 326,1376 313,1378 138,1378 139,1401"/>
+        <Baseline points="139,1401 449,1393"/>
+        <TextEquiv conf="0.964876626477097">
+          <Unicode>شخصی است که وجوه حیف ومیل شده جوب</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bc0b19db" custom="structure {type:default;}">
+        <Coords points="806,1424 806,1446 858,1446 858,1445 859,1445 860,1445 862,1444 875,1436 977,1439 978,1439 979,1439 997,1433 1003,1439 1006,1441 1006,1442 1007,1442 1008,1442 1009,1442 1010,1442 1024,1438 1035,1434 1043,1438 1052,1441 1054,1441 1055,1441 1076,1440 1077,1440 1078,1440 1078,1439 1082,1436 1086,1432 1104,1434 1105,1418 1102,1401 1032,1403 1030,1402 1017,1396 1016,1396 984,1396 983,1396 982,1396 967,1403 965,1405 934,1405 932,1404 925,1398 924,1398 923,1398 922,1398 921,1398 911,1403 907,1399 907,1398 905,1398 904,1398 903,1398 902,1398 888,1405 887,1405 864,1398 863,1398 862,1398 861,1398 846,1406 836,1399 835,1399 834,1399 833,1399 832,1399 805,1405 806,1424"/>
+        <Baseline points="806,1424 1105,1418"/>
+        <TextEquiv conf="0.9207903941472372">
+          <Unicode>مقام باشد بدارند لذا روزنامه مقدسه مجلس اغلام</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8fb8203a" custom="structure {type:default;}">
+        <Coords points="478,1424 477,1444 524,1449 525,1449 526,1449 535,1444 539,1442 543,1444 553,1449 554,1449 555,1449 585,1444 598,1442 606,1444 628,1450 629,1450 630,1450 685,1443 689,1443 691,1443 750,1450 751,1450 752,1450 772,1442 774,1426 770,1402 747,1407 714,1402 711,1402 710,1402 709,1402 708,1402 685,1407 596,1407 592,1403 591,1402 591,1401 590,1401 589,1401 588,1401 478,1403 478,1424"/>
+        <Baseline points="478,1424 774,1426"/>
+        <TextEquiv conf="0.9685885384678841">
+          <Unicode>کسی از علما وسادات قدوت نداشند منع نماند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f202f360" custom="structure {type:default;}">
+        <Coords points="138,1434 138,1453 347,1452 348,1452 360,1445 361,1445 363,1445 387,1451 388,1451 452,1442 452,1428 449,1405 137,1414 138,1434"/>
+        <Baseline points="138,1434 452,1428"/>
+        <TextEquiv conf="0.93351441256854">
+          <Unicode>دار ازان میان بیرون اید بلکه بعلاوه قایدهها بیرند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9e41ae54" custom="structure {type:default;}">
+        <Coords points="807,1461 807,1485 849,1478 860,1483 861,1483 862,1483 868,1483 897,1478 916,1480 931,1482 932,1482 934,1482 935,1482 938,1479 948,1470 982,1470 993,1477 998,1480 1000,1480 1001,1480 1002,1480 1003,1480 1011,1476 1023,1469 1103,1470 1105,1454 1103,1431 1074,1431 1073,1431 1072,1431 1071,1431 1070,1432 1059,1439 1005,1434 978,1433 977,1433 976,1433 975,1433 971,1437 968,1439 961,1437 951,1434 950,1434 949,1434 948,1434 939,1438 931,1441 917,1439 902,1437 901,1437 900,1437 899,1437 895,1440 888,1444 857,1444 855,1442 850,1438 850,1437 849,1437 848,1437 847,1437 846,1437 834,1442 830,1444 806,1444 807,1461"/>
+        <Baseline points="807,1461 1105,1454"/>
+        <TextEquiv conf="0.962606851543699">
+          <Unicode>میکند در طهران از اهل قروین که بزبور علم و</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_16915a9c" custom="structure {type:default;}">
+        <Coords points="480,1460 478,1480 772,1482 775,1463 774,1444 480,1438 480,1460"/>
+        <Baseline points="480,1460 775,1463"/>
+        <TextEquiv conf="0.9721231891049279">
+          <Unicode>ومن جمله حضرات حجج اسلامیه رقیمه جات</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b29b5ed2" custom="structure {type:default;}">
+        <Coords points="137,1471 137,1484 158,1491 160,1491 161,1491 162,1491 163,1491 163,1490 168,1485 222,1489 223,1489 255,1482 370,1485 371,1485 435,1483 436,1483 450,1476 450,1463 447,1438 136,1451 137,1471"/>
+        <Baseline points="137,1471 450,1463"/>
+        <TextEquiv conf="0.9503106137980586">
+          <Unicode>همین طور که سالها برده اند مقصود نها راحت مردم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_70e2b6e6" custom="structure {type:default;}">
+        <Coords points="807,1495 807,1514 857,1516 858,1516 859,1516 860,1516 862,1513 868,1509 882,1512 890,1514 891,1514 892,1514 894,1514 895,1514 895,1513 897,1512 902,1506 987,1505 1000,1509 1010,1512 1011,1512 1012,1512 1014,1512 1015,1512 1015,1511 1019,1508 1021,1506 1025,1508 1038,1512 1040,1512 1041,1512 1104,1505 1104,1490 1101,1466 1031,1473 1006,1469 990,1467 989,1467 952,1472 924,1476 913,1473 896,1470 895,1470 871,1476 864,1477 862,1476 849,1470 848,1470 847,1470 846,1470 845,1470 845,1471 838,1477 838,1478 806,1478 807,1495"/>
+        <Baseline points="807,1495 1104,1490"/>
+        <TextEquiv conf="0.9629069566726685">
+          <Unicode>اطلاع امروزی آراسته اند والحق در خود و</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_337c4a28" custom="structure {type:default;}">
+        <Coords points="477,1495 477,1518 585,1518 585,1517 587,1517 588,1517 591,1514 595,1511 606,1513 620,1517 621,1517 644,1512 660,1510 689,1511 757,1516 758,1516 760,1516 775,1509 775,1493 772,1477 660,1470 659,1470 658,1470 657,1470 657,1471 651,1477 476,1477 477,1495"/>
+        <Baseline points="477,1495 775,1493"/>
+        <TextEquiv conf="0.9691898917609995">
+          <Unicode>بطعا اسلام محال نلنه نوشتند دریاب تعیین وکیل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8c71b2bf" custom="structure {type:default;}">
+        <Coords points="138,1503 138,1517 451,1512 452,1498 449,1481 137,1484 138,1503"/>
+        <Baseline points="138,1503 452,1498"/>
+        <TextEquiv conf="0.9800195944936652">
+          <Unicode>نیست وکلای محترم ملت هرکاه صلاح بدانند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d53027da" custom="structure {type:default;}">
+        <Coords points="805,1527 805,1538 836,1546 837,1547 861,1547 861,1546 862,1546 863,1546 873,1539 874,1538 882,1539 915,1545 916,1545 917,1545 918,1545 918,1544 924,1539 927,1537 939,1539 954,1543 955,1543 956,1543 957,1543 961,1539 964,1537 991,1540 1016,1543 1017,1543 1029,1540 1054,1535 1103,1540 1104,1522 1100,1499 1074,1506 977,1504 911,1503 910,1503 804,1510 805,1527"/>
+        <Baseline points="805,1527 1104,1522"/>
+        <TextEquiv conf="0.9112168471018474">
+          <Unicode>شایسته این مقام هستند بایست آینده اطلاع بدهند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_eaa89ee2" custom="structure {type:default;}">
+        <Coords points="477,1528 476,1547 585,1544 591,1547 594,1549 595,1549 596,1549 597,1549 598,1549 608,1546 617,1544 620,1546 624,1550 625,1550 627,1550 628,1551 685,1551 685,1550 686,1550 687,1550 694,1545 695,1545 698,1545 763,1550 764,1550 765,1550 766,1550 772,1545 774,1531 771,1506 740,1511 715,1506 712,1506 711,1506 710,1506 709,1506 699,1512 629,1512 621,1508 617,1505 616,1505 615,1505 614,1505 477,1509 477,1528"/>
+        <Baseline points="477,1528 774,1531"/>
+        <TextEquiv conf="0.9237997327532087">
+          <Unicode>مجنس مقدس ملی خود حکومت انسیت بجناب</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_38a3e2fe" custom="structure {type:default;}">
+        <Coords points="137,1536 137,1549 278,1554 280,1554 281,1554 304,1548 427,1552 428,1552 429,1552 449,1545 449,1532 447,1513 136,1512 137,1536"/>
+        <Baseline points="137,1536 449,1532"/>
+        <TextEquiv conf="0.9830626539694958">
+          <Unicode>خویست عمل قصاب خانه را هم در تحت مباشرت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_14daec83" custom="structure {type:default;}">
+        <Coords points="804,1562 805,1579 818,1574 841,1578 843,1578 844,1578 845,1578 846,1578 865,1573 909,1576 924,1577 925,1577 926,1577 929,1576 937,1572 963,1575 978,1576 979,1576 1108,1570 1108,1557 1104,1533 1015,1540 803,1540 804,1562"/>
+        <Baseline points="804,1562 1108,1557"/>
+        <TextEquiv conf="0.9665360271930694">
+          <Unicode>در آن واحد معین واعلام خواهد شد که عتبار</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e31c5c9a" custom="structure {type:default;}">
+        <Coords points="476,1564 477,1585 507,1577 535,1584 539,1584 540,1584 541,1584 542,1584 542,1583 550,1577 644,1579 753,1583 754,1583 755,1583 776,1575 776,1562 772,1538 621,1544 475,1539 476,1564"/>
+        <Baseline points="476,1564 776,1562"/>
+        <TextEquiv conf="0.9283786986736541">
+          <Unicode>شریعتمدار آقا شیخ محمد سلمه لله تعالی بی اقدامی</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6b7c2fd3" custom="structure {type:default;}">
+        <Coords points="139,1571 139,1588 394,1588 394,1587 451,1579 451,1564 448,1540 396,1548 138,1548 139,1571"/>
+        <Baseline points="139,1571 451,1564"/>
+        <TextEquiv conf="0.9475868490277505">
+          <Unicode>کمیانی خباز خانه قرار بدهند نا کمیانی دیگر تشکیبل</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_34885b2a" custom="structure {type:default;}">
+        <Coords points="807,1599 807,1614 883,1606 892,1612 897,1615 898,1615 899,1615 900,1616 927,1616 927,1615 928,1615 929,1615 929,1614 934,1611 940,1603 1002,1603 1018,1608 1028,1612 1029,1612 1030,1613 1063,1613 1063,1612 1064,1612 1065,1612 1065,1611 1070,1606 1075,1601 1108,1605 1109,1591 1104,1563 1089,1571 1069,1566 1068,1566 1019,1575 962,1572 892,1567 891,1567 890,1567 889,1567 876,1577 873,1579 843,1579 842,1579 837,1575 837,1574 836,1574 835,1574 834,1574 833,1574 806,1580 807,1599"/>
+        <Baseline points="807,1599 1109,1591"/>
+        <TextEquiv conf="0.9424139694734053">
+          <Unicode>نامه او را بفرستند وزودتر از این لخطه وسرزنش</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e25bd6dd" custom="structure {type:default;}">
+        <Coords points="476,1598 476,1612 775,1618 776,1598 775,1573 528,1578 525,1578 508,1573 507,1573 505,1573 476,1578 476,1598"/>
+        <Baseline points="476,1598 776,1598"/>
+        <TextEquiv conf="0.9595235091883961">
+          <Unicode>نموده امر بحیس ایشان هم کرد حال خود حکومت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a94564ff" custom="structure {type:default;}">
+        <Coords points="138,1605 138,1621 430,1621 430,1620 431,1620 454,1614 454,1600 450,1580 137,1583 138,1605"/>
+        <Baseline points="138,1605 454,1600"/>
+        <TextEquiv conf="0.9632321514866569">
+          <Unicode>داده شود تا بعضی از لوازم ضروریه از قبل ذغال</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_41dc3f00" custom="structure {type:default;}">
+        <Coords points="805,1629 805,1653 854,1652 855,1652 856,1652 872,1640 882,1645 883,1645 884,1645 885,1645 905,1639 942,1639 984,1652 985,1652 987,1652 988,1652 1014,1643 1035,1647 1036,1647 1037,1647 1055,1638 1072,1651 1073,1651 1074,1651 1075,1652 1105,1652 1107,1626 1103,1606 1021,1611 1017,1608 1007,1602 1006,1602 1005,1602 1004,1602 1003,1602 979,1610 974,1611 967,1610 931,1603 930,1603 929,1603 910,1612 909,1612 898,1604 897,1604 896,1604 863,1604 862,1604 861,1604 860,1604 860,1605 851,1613 838,1608 837,1608 836,1608 804,1614 805,1629"/>
+        <Baseline points="805,1629 1107,1626"/>
+        <TextEquiv conf="0.9147575906344823">
+          <Unicode>عوی خود را آسوده دارند  امضا محفوظ)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1ebd7692" custom="structure {type:default;}">
+        <Coords points="477,1631 477,1652 513,1652 513,1651 514,1651 515,1651 515,1650 520,1645 528,1650 529,1651 530,1651 531,1652 531,1651 532,1651 535,1650 543,1645 638,1647 755,1651 756,1651 757,1651 777,1644 777,1631 777,1612 755,1606 754,1606 753,1606 724,1612 685,1606 684,1606 650,1612 648,1612 645,1612 587,1606 585,1606 477,1611 477,1631"/>
+        <Baseline points="477,1631 777,1631"/>
+        <TextEquiv conf="0.9478446219829803">
+          <Unicode>معلوم نیست بکجارفته جنابن مستطابان ملان لانامان</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_87a94337" custom="structure {type:default;}">
+        <Coords points="138,1642 138,1655 209,1661 210,1661 211,1661 212,1661 220,1654 322,1652 356,1658 357,1658 358,1658 360,1658 368,1652 406,1657 407,1657 454,1647 454,1634 450,1614 137,1617 138,1642"/>
+        <Baseline points="138,1642 454,1634"/>
+        <TextEquiv conf="0.9316460870681925">
+          <Unicode>وهیزم وبرنج و نغبره را در تحت ماداره کمانی قرار</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4b86aaf5" custom="structure {type:default;}">
+        <Coords points="830,1665 830,1679 852,1677 857,1680 865,1686 867,1686 868,1686 869,1686 923,1684 924,1684 925,1684 930,1680 935,1675 950,1680 970,1685 971,1685 972,1685 1027,1684 1028,1684 1029,1684 1034,1680 1043,1674 1085,1680 1087,1661 1085,1646 1043,1646 1011,1637 1010,1637 1009,1637 1008,1637 1007,1637 995,1646 995,1647 958,1647 958,1646 930,1638 929,1638 928,1638 859,1639 858,1639 857,1639 857,1640 848,1647 848,1648 829,1648 830,1665"/>
+        <Baseline points="830,1665 1087,1661"/>
+        <TextEquiv conf="0.9842423995335897">
+          <Unicode>رابورت از کرمان</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_93ca6fb2" custom="structure {type:default;}">
+        <Coords points="476,1665 476,1679 502,1686 503,1686 504,1686 505,1686 527,1680 529,1680 535,1680 575,1686 576,1686 669,1685 670,1685 671,1685 671,1684 673,1683 676,1680 688,1683 701,1686 702,1686 703,1686 775,1684 775,1665 772,1640 756,1646 703,1646 694,1640 692,1639 691,1639 690,1639 689,1639 688,1639 685,1640 672,1645 656,1640 650,1639 649,1639 648,1639 647,1639 642,1641 627,1645 603,1641 591,1639 590,1639 589,1639 584,1641 576,1645 567,1641 563,1639 562,1639 561,1639 545,1641 520,1645 476,1642 476,1665"/>
+        <Baseline points="476,1665 775,1665"/>
+        <TextEquiv conf="0.9435106712452909">
+          <Unicode>آقا شیخ انوالقاسم و آقا شیخ فضل الله سلمهم الله</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9a943916" custom="structure {type:default;}">
+        <Coords points="139,1671 139,1691 248,1685 285,1687 332,1689 334,1689 335,1689 347,1685 351,1684 367,1684 437,1688 438,1688 440,1688 454,1682 454,1668 450,1645 409,1652 335,1648 272,1646 271,1646 270,1646 269,1646 263,1652 260,1654 231,1654 228,1653 221,1647 220,1647 219,1647 218,1647 217,1647 216,1647 209,1653 209,1654 207,1653 192,1648 191,1648 190,1648 138,1655 139,1671"/>
+        <Baseline points="139,1671 454,1668"/>
+        <TextEquiv conf="0.96783014635245">
+          <Unicode>دهند که مردم از این جهات اسوده باشند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c8ef5165" custom="structure {type:default;}">
+        <Coords points="807,1698 807,1718 833,1718 833,1717 834,1717 835,1717 846,1709 872,1715 881,1717 882,1717 918,1715 920,1715 921,1715 924,1713 932,1708 952,1712 963,1714 964,1714 991,1711 1033,1706 1050,1709 1067,1712 1068,1712 1069,1712 1070,1712 1075,1708 1081,1706 1108,1707 1110,1694 1107,1671 1023,1680 970,1680 965,1677 960,1672 958,1672 957,1672 956,1672 955,1672 937,1678 928,1680 925,1678 915,1673 914,1673 913,1673 912,1673 911,1673 911,1674 905,1679 904,1681 871,1681 864,1681 824,1674 823,1674 822,1674 806,1681 807,1698"/>
+        <Baseline points="807,1698 1110,1694"/>
+        <TextEquiv conf="0.9464339143351505">
+          <Unicode>خدمت٬. مدیر روزنامه مجلس در هفته گذشته</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_266b58c6" custom="structure {type:default;}">
+        <Coords points="476,1718 776,1718 777,1700 777,1681 752,1675 751,1675 724,1679 710,1681 698,1679 676,1673 675,1673 674,1673 661,1678 654,1680 545,1680 540,1674 538,1672 537,1672 536,1672 535,1672 524,1674 500,1679 478,1673 477,1697 476,1718"/>
+        <Baseline points="477,1697 777,1700"/>
+        <TextEquiv conf="0.9621074213223024">
+          <Unicode>تعالی قریب یکماهست با ایب کجور مهریانی موعظه</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8f720b8a" custom="structure {type:default;}">
+        <Coords points="138,1710 138,1721 209,1728 210,1728 211,1728 212,1728 223,1720 245,1725 246,1725 247,1725 277,1719 302,1725 303,1725 304,1725 340,1718 370,1724 371,1724 434,1722 435,1722 450,1713 450,1701 447,1682 137,1689 138,1710"/>
+        <Baseline points="138,1710 450,1701"/>
+        <TextEquiv conf="0.9380070702596144">
+          <Unicode>که بچهارها کان ندارند که تاقیامت از این بابت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ea418440" custom="structure {type:default;}">
+        <Coords points="808,1735 808,1758 856,1758 856,1756 857,1756 858,1756 858,1755 859,1755 859,1754 864,1749 914,1752 955,1754 956,1754 957,1754 972,1749 980,1747 987,1749 1004,1753 1005,1753 1006,1753 1007,1753 1008,1753 1017,1747 1020,1746 1030,1747 1075,1751 1076,1751 1077,1751 1107,1742 1107,1728 1102,1702 1078,1710 1063,1705 1059,1702 1058,1702 1057,1702 1056,1702 1050,1705 1041,1709 1024,1707 1006,1704 1005,1704 1004,1704 991,1708 979,1712 940,1711 897,1709 896,1709 828,1715 820,1710 819,1710 818,1710 817,1710 816,1710 815,1710 807,1714 808,1735"/>
+        <Baseline points="808,1735 1107,1728"/>
+        <TextEquiv conf="0.946891949290321">
+          <Unicode>مجلس انخاب وکیل اعبان واشراف بود تمام اهلی</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_78d9b3ec" custom="structure {type:default;}">
+        <Coords points="476,1737 476,1755 778,1748 779,1733 777,1714 488,1710 487,1710 486,1710 485,1710 475,1715 476,1737"/>
+        <Baseline points="476,1737 779,1733"/>
+        <TextEquiv conf="0.9302438033951653">
+          <Unicode>واسمالت نمودند در باب تمین وکیل مجلس</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e50400fa" custom="structure {type:default;}">
+        <Coords points="137,1741 137,1755 451,1752 452,1737 449,1711 422,1712 421,1712 420,1712 420,1713 414,1719 337,1714 317,1713 316,1713 315,1713 312,1714 304,1719 273,1717 251,1714 250,1714 249,1714 248,1714 245,1717 237,1722 181,1722 177,1719 174,1715 172,1715 171,1715 170,1715 136,1720 137,1741"/>
+        <Baseline points="137,1741 452,1737"/>
+        <TextEquiv conf="0.9549244770816728">
+          <Unicode>ها اسوده شوند از بسکه با شکال مختانه و عده داده اند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7b221a92" custom="structure {type:default;}">
+        <Coords points="806,1766 806,1781 816,1788 817,1788 818,1788 819,1788 820,1788 835,1781 837,1780 838,1781 852,1787 854,1787 921,1788 922,1788 941,1783 958,1779 972,1785 977,1786 978,1786 979,1786 980,1786 981,1786 981,1785 982,1785 988,1779 1025,1779 1049,1786 1052,1787 1054,1787 1055,1788 1107,1788 1108,1764 1107,1748 1095,1741 1094,1741 1092,1741 1064,1747 1014,1741 1012,1741 1011,1741 1010,1741 1010,1742 1005,1747 899,1742 898,1742 897,1742 896,1742 889,1749 851,1749 844,1742 843,1742 842,1742 841,1742 805,1749 806,1766"/>
+        <Baseline points="806,1766 1108,1764"/>
+        <TextEquiv conf="0.9568889036774635">
+          <Unicode>مجلس بدون استشا شمس الحکا را مشخب نمودند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_396efa20" custom="structure {type:default;}">
+        <Coords points="475,1772 475,1783 779,1786 780,1767 777,1747 716,1747 714,1747 700,1740 699,1740 698,1740 697,1740 696,1740 696,1741 690,1747 688,1748 677,1747 647,1741 646,1741 645,1741 644,1741 638,1746 633,1741 632,1741 631,1741 630,1741 604,1747 600,1747 594,1747 574,1742 572,1742 571,1742 564,1747 558,1749 554,1747 550,1742 549,1742 548,1742 547,1742 526,1747 510,1749 474,1747 475,1772"/>
+        <Baseline points="475,1772 780,1767"/>
+        <TextEquiv conf="0.9278317188674753">
+          <Unicode>مقدس شورلی ملی ایداً اعتنا نموده تا این ایام</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5446ce4b" custom="structure {type:default;}">
+        <Coords points="137,1778 137,1796 454,1788 454,1773 450,1746 325,1753 305,1751 284,1748 283,1748 176,1750 175,1750 174,1750 174,1751 169,1755 158,1750 157,1750 156,1750 155,1750 136,1756 137,1778"/>
+        <Baseline points="137,1778 454,1773"/>
+        <TextEquiv conf="0.9373003972901238">
+          <Unicode>ووفا نکردند و درات بل داد و بکیسهٔ دیگران رفت</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9073b257" custom="structure {type:default;}">
+        <Coords points="808,1805 808,1822 830,1825 831,1825 832,1825 840,1821 851,1817 888,1819 936,1822 937,1822 938,1822 951,1817 953,1816 955,1816 970,1821 971,1821 972,1821 974,1821 975,1821 982,1815 984,1814 1004,1814 1092,1818 1094,1818 1095,1818 1111,1809 1111,1798 1108,1780 1009,1781 984,1775 983,1775 982,1775 943,1782 912,1777 911,1777 910,1777 892,1785 870,1778 869,1778 868,1778 817,1780 816,1780 815,1780 807,1785 808,1805"/>
+        <Baseline points="808,1805 1111,1798"/>
+        <TextEquiv conf="0.9605286759989602">
+          <Unicode>حصرت اقدس والا هم که با در این باب تلگرافی</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4860b979" custom="structure {type:default;}">
+        <Coords points="477,1803 477,1818 779,1820 780,1803 780,1783 749,1777 748,1777 577,1782 535,1777 534,1777 477,1782 477,1803"/>
+        <Baseline points="477,1803 780,1803"/>
+        <TextEquiv conf="0.9504565304898202">
+          <Unicode>بمنزل معزی الیه واردشده بنای موعظه نمودند بمعظم</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_81e06914" custom="structure {type:default;}">
+        <Coords points="137,1815 137,1829 270,1832 271,1832 331,1826 432,1828 433,1828 434,1828 450,1821 450,1807 447,1781 136,1793 137,1815"/>
+        <Baseline points="137,1815 450,1807"/>
+        <TextEquiv conf="0.9576677317204683">
+          <Unicode>یکوله دیگر مردم اعتیار واعتماد بقول مباشرین بی</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_95bb7575" custom="structure {type:default;}">
+        <Coords points="808,1838 808,1868 874,1875 875,1875 876,1875 895,1869 901,1867 945,1869 956,1869 957,1869 958,1869 960,1869 960,1868 968,1860 1024,1867 1025,1867 1078,1859 1092,1869 1095,1871 1096,1871 1097,1871 1098,1871 1128,1869 1129,1841 1128,1806 1097,1806 1096,1806 1095,1806 1094,1806 1080,1814 1029,1808 1015,1807 1014,1807 1012,1807 1009,1808 996,1815 966,1811 953,1808 952,1808 951,1808 947,1811 936,1816 913,1812 905,1811 904,1811 896,1812 872,1817 807,1815 808,1838"/>
+        <Baseline points="808,1838 1051,1832 1094,1833 1129,1841"/>
+        <TextEquiv conf="0.8951454106214884">
+          <Unicode>زموند محجله اشخاسیکه منشضب شده اند از</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_20b5584b" custom="structure {type:default;}">
+        <Coords points="476,1836 475,1854 505,1863 507,1863 508,1863 597,1856 632,1865 633,1865 634,1865 751,1858 764,1862 765,1862 766,1862 767,1862 768,1862 777,1856 778,1839 777,1813 476,1811 476,1836"/>
+        <Baseline points="476,1836 778,1839"/>
+        <TextEquiv conf="0.9248887186958676">
+          <Unicode>ابهما هناکی ربی اقدای نمودند سهل است بعلما</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_677fd944" custom="structure {type:default;}">
+        <Coords points="355,1845 355,1863 412,1872 414,1872 415,1872 416,1872 435,1858 437,1858 451,1858 451,1840 448,1820 353,1822 355,1845"/>
+        <Baseline points="355,1845 451,1840"/>
+        <TextEquiv conf="0.9183761531656439">
+          <Unicode>الصاف نماند</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c41089ed" custom="structure {type:default;}">
+        <Coords points="137,1846 137,1868 148,1875 149,1875 150,1875 151,1875 152,1875 171,1868 175,1867 177,1868 195,1874 196,1874 197,1874 229,1870 259,1867 312,1874 313,1845 310,1821 136,1825 137,1846"/>
+        <Baseline points="137,1846 313,1845"/>
+        <TextEquiv conf="0.9428939776761192">
+          <Unicode>شریف این اسمیل</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

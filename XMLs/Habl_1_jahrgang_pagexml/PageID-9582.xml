@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-03-20T20:57:25.608074+00:00</Created>
+        <LastChange>2025-03-31T13:44:29.278791+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PageID-9582.jpg" imageWidth="1400" imageHeight="2002">
+    <TextRegion id="eSc_textblock_8438e735"  custom="structure {type:header;}">
+      <Coords points="307,1917 332,1917 341,1925 307,1925 307,1917"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2b6946bb"  custom="structure {type:Metadata;}">
+      <Coords points="1205,244 1208,244 1208,301 1205,301 1205,244"/>
+    </TextRegion>
+  </Page>
+</PcGts>

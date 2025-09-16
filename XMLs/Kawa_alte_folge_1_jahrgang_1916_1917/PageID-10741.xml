@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-09-16T10:25:19.920995+00:00</Created>
+        <LastChange>2025-09-16T10:53:22.835713+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PageID-10741.jpg" imageWidth="1400" imageHeight="1797">
+    <TextRegion id="eSc_textblock_93690f13"  custom="structure {type:header;}">
+      <Coords points="544,211 1068,211 1144,223 1144,242 1124,270 175,266 143,258 123,226 544,211"/>
+      <TextLine id="eSc_line_f695c66d" custom="structure {type:default;}">
+        <Coords points="190,227 180,227 170,227 167,227 147,227 140,230 141,254 141,283 200,284 200,252 196,231 190,227"/>
+        <Baseline points="141,254 200,252"/>
+        <TextEquiv conf="0.950827956199646">
+          <Unicode>شماره</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_43df57fa" custom="structure {type:default;}">
+        <Coords points="707,236 698,226 688,226 678,226 668,225 658,225 648,225 639,224 612,227 595,223 588,223 578,225 568,226 558,228 548,230 548,251 547,283 716,284 718,253 713,243 707,236"/>
+        <Baseline points="548,251 718,253"/>
+        <TextEquiv conf="0.9999667704105377">
+          <Unicode>کاوه</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_35c8a8d3"  custom="structure {type:footer;}">
+      <Coords points="223,1577 438,1581 494,1596 251,1608 215,1596 223,1577"/>
+      <TextLine id="eSc_line_5aaa8e08" custom="structure {type:default;}">
+        <Coords points="221,1589 221,1603 280,1603 283,1605 287,1609 288,1609 289,1609 290,1609 321,1606 346,1604 352,1607 361,1612 362,1612 363,1612 364,1612 376,1608 379,1607 384,1608 403,1612 404,1612 405,1612 414,1609 429,1603 448,1610 453,1611 454,1611 455,1612 519,1612 519,1586 517,1558 488,1552 435,1552 434,1552 433,1552 421,1557 417,1558 413,1556 402,1553 401,1553 400,1553 399,1553 398,1553 393,1556 390,1558 378,1556 359,1553 358,1553 357,1553 349,1556 342,1558 220,1555 221,1589"/>
+        <Baseline points="221,1589 519,1586"/>
+        <TextEquiv conf="0.8827367713957122">
+          <Unicode>در چابخانه کار ان در براین جاب فد</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
